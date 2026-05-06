@@ -41,6 +41,12 @@ export default {
       pages: [
         { name: "Cadastre Rénové (1888)",      path: "/examples/10-lausanne-cadastre-renove" },
       ]
+    },
+    {
+      name: "6 - Other",
+      pages: [
+        { name: "Word Clouds",      path: "/examples/11-word-cloud" },
+      ]
     }
   ],
 
