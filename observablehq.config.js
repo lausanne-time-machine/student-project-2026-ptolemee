@@ -8,43 +8,49 @@ export default {
   // lets you organize them into sections and have unlisted pages.
   pages: [
     {
-      name: "1 - Framework Basics",
+      name: "1 - Récits & Graphiques",
+      pages: [
+        { name: "Chronologie des Quartiers", path: "/site-lausanne/1-recits-graphiques" }
+      ]
+    },
+    {
+      name: "2 - Images & Bâtiments",
+      pages: [
+        { name: "Lausanne à Rebrousse-Temps",       path: "/site-lausanne/2-images-batiments" }
+      ]
+    },
+    {
+      name: "3 - Cartes & Toponymie",
+      pages: [
+        { name: "Des Cartes qui se Peuplent",       path: "/site-lausanne/3-cartes-toponymie" }
+      ]
+    },
+    {
+      name: "4 - Évolution du Bâti & Métiers",
+      pages: [
+        { name: "Un Soldat, une Veuve et un Mécano",       path: "/site-lausanne/4-evolution-bati-metiers" }
+      ]
+    },
+    {
+      name: "À Propos",
+      pages: [
+        { name: "Sources & Méthodologie",       path: "/site-lausanne/methodes-sources" },
+        { name: "Qui Sommes-Nous?",       path: "/site-lausanne/a-propos" }
+      ]
+    },
+    {
+      name: "Obervable Tutorial",
       pages: [
         { name: "Page Structure & Formatting", path: "/examples/01-page-structure" },
         { name: "Reactivity & Inputs",         path: "/examples/02-reactivity" },
-      ]
-    },
-    {
-      name: "2 - Data & Visualization",
-      pages: [
         { name: "Loading Data & Tables",       path: "/examples/03-data-tables" },
         { name: "Charts with Plot",            path: "/examples/04-charts" },
-      ]
-    },
-    {
-      name: "3 - Maps",
-      pages: [
         { name: "Interactive Maps (Leaflet)",  path: "/examples/05-maps-leaflet" },
         { name: "Historical Maps (GeoServer)", path: "/examples/06-maps-historical" },
         { name: "Analytical Maps (Plot)",      path: "/examples/07-maps-plot" },
-      ]
-    },
-    {
-      name: "4 - Data Loaders",
-      pages: [
         { name: "Processing Data Server-Side",           path: "/examples/08-data-loaders" },
         { name: "Venice 1740 Land Register (Python Loader)", path: "/examples/09-venice-landregister" },
-      ]
-    },
-    {
-      name: "5 - Complete Example",
-      pages: [
         { name: "Cadastre Rénové (1888)",      path: "/examples/10-lausanne-cadastre-renove" },
-      ]
-    },
-    {
-      name: "6 - Other",
-      pages: [
         { name: "Word Clouds",      path: "/examples/11-word-cloud" },
       ]
     }
