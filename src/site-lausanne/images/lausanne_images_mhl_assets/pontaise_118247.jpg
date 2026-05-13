@@ -1,0 +1,2 @@
+Exception !! : The remote server returned an error: (404) Not Found. ; Stack:    at System.Net.HttpWebRequest.GetResponse()
+   at Museris.GetImage.ProcessRequest(HttpContext context)
