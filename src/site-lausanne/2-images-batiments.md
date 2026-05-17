@@ -10,13 +10,7 @@ iframe.setAttribute("title", "Carte Iconographie");
 iframe.setAttribute("loading", "lazy");
 
 const rawHtml = await FileAttachment("icono_site.html").text();
-const sampleImageUrl = await FileAttachment("icono/pontaise_143682.jpg").url();
-const sampleBaseUrl = new URL(".", sampleImageUrl).href;
-const html = rawHtml.replace(
-  /(icono|lausanne_images_mhl_assets)\/([^"'?#\s]+)/g,
-  (_, __, filename) => `${sampleBaseUrl}${filename}`
-);
-iframe.srcdoc = html;
+iframe.srcdoc = rawHtml;
 container.appendChild(iframe);
 
 invalidation.then(() => {
