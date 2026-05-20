@@ -182,8 +182,8 @@ box-shadow: none;
 </div>
 <div class="obs-clearfix">
 <div class="obs-float-right">
-<img src="icono/pontaise_142852.jpg" class="obs-img" alt="Tram sur la rue de la Pontaise" />
-<span class="obs-caption">Tram sur la rue de la Pontaise et l'avenue Druey 1900–1911</span>
+<img src="images/NouveauPrelaz.jpg" class="obs-img" alt="Plan du nouveau quartier de Prélaz, 1913" />
+<span class="obs-caption">Plan du nouveau quartier de Prélaz, 1913</span>
 </div>
 
 <h4>Tensions à Prélaz : <br/>Inondations, transports et hygiénisme</h4>
@@ -194,6 +194,12 @@ box-shadow: none;
 <h3>Stabilisation, culture et religion</h3>
 <p>Enfin, les deux quartiers vivent une phase de stabilisation, qui se constate par l’implantation d’édifices religieux. À la Pontaise voit le jour le <strong>Temple Saint-Luc</strong>, dont la construction en avril 1940 est l’aboutissement de décennies de discussions et recherches de fonds. À Prélaz, l'<strong>église Saint-Joseph</strong> est consacrée par l’évêque en juin 1936, tandis qu’une chapelle protestante (transférée de Bellevaux) complète le chapelet d’églises en 1940.</p>
 <p>En parallèle, les activités sportives et culturelles se développent :</p>
+
+<div class="obs-clearfix">
+<div class="obs-float-right">
+<img src="icono/pontaise_142852.jpg" class="obs-img" alt="Tram sur la rue de la Pontaise" />
+<span class="obs-caption">Tram sur la rue de la Pontaise et l'avenue Druey 1900–1911</span>
+</div>
 
 <ul>
 <li><strong>Chant et culture :</strong> La chorale de la Pontaise donne de nombreux concerts à travers la ville et participe aux défilés des 1er-août.</li>
@@ -269,5 +275,301 @@ box-shadow: none;
 
 </div>
 </div>
+</div>
 
+<style>
+/* Style de la zone de défilement de la frise */
+.timeline-scroll-container {
+width: 100%;
+overflow-x: auto;
+white-space: nowrap;
+margin: 40px 0;
+padding: 20px 0;
+background: #f8f9fa;
+border: 1px solid #e1e4e8;
+border-radius: 8px;
+scroll-behavior: smooth;
+}
+/* Personnalisation de la barre de défilement */
+.timeline-scroll-container::-webkit-scrollbar {
+height: 8px;
+}
+.timeline-scroll-container::-webkit-scrollbar-track {
+background: #f1f1f1;
+border-radius: 4px;
+}
+.timeline-scroll-container::-webkit-scrollbar-thumb {
+background: #ccc;
+border-radius: 4px;
+}
+.timeline-scroll-container::-webkit-scrollbar-thumb:hover {
+background: #999;
+}
+/* Légende de navigation */
+.timeline-help-text {
+font-size: 0.9em;
+color: #666;
+text-align: center;
+margin-bottom: 10px;
+font-style: italic;
+}
+/* Conteneur de la frise */
+.timeline-track {
+display: inline-flex;
+position: relative;
+padding: 20px 0;
+min-width: 100%;
+}
+/* Ligne centrale de la frise */
+.timeline-track::before {
+content: "";
+position: absolute;
+top: 50%;
+left: 0;
+right: 0;
+height: 4px;
+background: #cbd5e0;
+transform: translateY(-50%);
+z-index: 1;
+}
+/* Colonne temporelle structurée en grille fixe pour un alignement parfait */
+.timeline-column {
+display: inline-grid;
+grid-template-rows: 220px 60px 220px;
+align-items: center;
+justify-items: center;
+width: 320px;
+flex-shrink: 0;
+position: relative;
+white-space: normal;
+}
+/* Carte événement */
+.timeline-card {
+width: 280px;
+background: #ffffff;
+border: 1px solid #e2e8f0;
+border-radius: 6px;
+padding: 14px;
+box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+transition: transform 0.2s ease, box-shadow 0.2s ease;
+z-index: 2;
+}
+.timeline-card:hover {
+transform: translateY(-3px);
+box-shadow: 0 6px 12px rgba(0,0,0,0.05);
+}
+/* Alignement des cartes du haut vers le bas de leur cellule */
+.timeline-card-top {
+align-self: end;
+margin-bottom: 10px;
+border-top: 4px solid #3182bd; /* Bleu */
+text-align: justify;
+}
+/* Alignement des cartes du bas vers le haut de leur cellule */
+.timeline-card-bottom {
+align-self: start;
+margin-top: 10px;
+border-bottom: 4px solid #31a354; /* Vert */
+text-align: justify;
+}
+/* Indicateur d'absence d'événement */
+.timeline-empty-card {
+height: 1px;
+width: 280px;
+visibility: hidden;
+}
+/* Nœud central (Date au format pilule pour éviter les retours à la ligne) */
+.timeline-node {
+background: #2d3748;
+color: #ffffff;
+border-radius: 20px;
+padding: 6px 16px;
+font-weight: bold;
+font-size: 0.85em;
+z-index: 3;
+box-shadow: 0 0 0 6px #ffffff, 0 4px 10px rgba(0,0,0,0.1);
+display: inline-flex;
+align-items: center;
+justify-content: center;
+white-space: nowrap;
+height: 32px;
+}
+/* Contenu textuel interne des cartes */
+.timeline-card h4 {
+font-size: 0.95em;
+margin: 0 0 8px 0;
+font-weight: bold;
+color: #1a202c;
+}
+.timeline-card p {
+font-size: 0.85em;
+margin: 0;
+line-height: 1.4;
+color: #4a5568;
+}
+</style>
+
+<div class="timeline-help-text">
+← Glissez horizontalement pour faire défiler la ligne temporelle entre les deux quartiers (1870 - 1945) →
+</div>
+
+<div class="timeline-scroll-container">
+<div class="timeline-track">
+
+<!-- 1873-1875 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1873-1875 :</strong> Construction de modestes maisons d'ouvriers unifamiliales et inauguration du nouvel Orphelinat cantonal.</p>
+</div>
+<div class="timeline-node">1873-1875</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1873-1875 :</strong> Zone agricole patricienne active (vente d'herbe et de bétail) et morcellement du domaine de Mme Muller.</p>
+</div>
+</div>
+
+<!-- 1878-1882 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1878-1882 :</strong> Décision d'implanter la Caserne militaire (Plaines du Loup) et inauguration officielle en avril 1882.</p>
+</div>
+<div class="timeline-node">1878-1882</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1878 :</strong> Présentation du plan Laurent et Rossire visant le comblement de la vallée du Flon à des fins logistiques.</p>
+</div>
+</div>
+
+<!-- 1887-1892 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1887-1892 :</strong> Conflits d'usage de l'eau (casernes vs nouveaux abattoirs) ; arrestation d'un faux-monnayeur derrière le stand de tir (1892).</p>
+</div>
+<div class="timeline-node">1887-1892</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1892 :</strong> La foudre frappe la propriété du député Fleury ; l'industrialisation démarre timidement dans le secteur.</p>
+</div>
+</div>
+
+<!-- 1898-1902 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1898 :</strong> La municipalité s'organise et nomme officiellement les rues pour rationaliser le dédale du quartier.</p>
+</div>
+<div class="timeline-node">1898-1902</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1902 :</strong> Tournant majeur avec le transfert du dépôt principal et des ateliers de réparation des Tramways Lausannois (TL).</p>
+</div>
+</div>
+
+<!-- 1901-1904 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1901 :</strong> Affaire Wassmer (interdiction des tenues de quartier) et décision de bâtir la prison du Bois-Mermet.</p>
+</div>
+<div class="timeline-node">1901-1904</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1904 :</strong> Implantation industrielle renforcée par l'arrivée de la Manufacture lausannoise de Biscuits.</p>
+</div>
+</div>
+
+<!-- 1905-1908 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1905-1908 :</strong> Échauffourées militaires (1905) ; ouverture du café de tempérance sans alcool La Violette (1908).</p>
+</div>
+<div class="timeline-node">1905-1908</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1908 :</strong> Inauguration du Collège de Prélaz, modèle architectural hygiéniste (linoléum, vastes baies vitrées).</p>
+</div>
+</div>
+
+<!-- 1910-1912 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1912 :</strong> Drame au stand de tir ; aménagement du terrain de Montriond-Sports (futur Lausanne-Sports) dans le quartier.</p>
+</div>
+<div class="timeline-node">1910-1912</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1910 :</strong> Crues violentes de la rivière du Flon et de la Mèbre, inondant et endommageant les cultures ouvrières.</p>
+</div>
+</div>
+
+<!-- 1921 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1921 :</strong> Sécurisation physique du stand de tir à la suite des plaintes récurrentes de la population (murs de béton).</p>
+</div>
+<div class="timeline-node">1921</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1921 :</strong> Face à la crise du logement, création de la cité ouvrière coopérative standardisée de Prélaz-Cottages.</p>
+</div>
+</div>
+
+<!-- 1926-1927 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1926 :</strong> Inauguration du Vélodrome de la Pontaise, renforçant l'influence et le pôle d'attraction sportive du quartier.</p>
+</div>
+<div class="timeline-node">1926-1927</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1927 :</strong> Fin du long chantier ferroviaire avec l'inauguration décisive de la Gare aux marchandises de Sébeillon/Prélaz.</p>
+</div>
+</div>
+
+<!-- 1929-1933 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1929-1933 :</strong> Match international Suisse-Tchécoslovaquie (20'000 personnes) ; meurtre crapuleux à la suite d'une querelle de voisinage (1933).</p>
+</div>
+<div class="timeline-node">1929-1933</div>
+<div class="timeline-card timeline-card-bottom">
+<div class="timeline-empty-card"></div>
+</div>
+</div>
+
+<!-- 1936-1940 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1940 :</strong> Point d'orgue de l'ancrage religieux avec l'inauguration du temple paroissial protestant de Saint-Luc.</p>
+</div>
+<div class="timeline-node">1936-1940</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1936-1940 :</strong> Consécration de l'église catholique Saint-Joseph (1936) ; transfert et réinstallation d'une chapelle en bois protestante (1940).</p>
+</div>
+</div>
+
+<!-- 1943-1945 -->
+<div class="timeline-column">
+<div class="timeline-card timeline-card-top">
+<h4>La Pontaise</h4>
+<p><strong>1945 :</strong> Triomphe sportif du match Suisse-France devant plus de 25 000 spectateurs sur les hauts de la ville.</p>
+</div>
+<div class="timeline-node">1943-1945</div>
+<div class="timeline-card timeline-card-bottom">
+<h4>Prélaz</h4>
+<p><strong>1939-1943 :</strong> Économie de guerre (rations) et hausse de la mortalité routière due à la cohabitation difficile tram/camion.</p>
+</div>
+</div>
+
+</div>
 </div>
