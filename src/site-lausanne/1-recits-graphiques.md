@@ -141,8 +141,8 @@ box-shadow: none;
 <p>A Prélaz, en revanche, l’urbanisation a été dictée par la topographie et répond à une logique d’industrialisation de fond de vallée. C’est son emplacement stratégique, dans la basse vallée du Flon, qui en fait le lieu idéal pour installer la gare de marchandises CFF (si le lieu est décidé dès juillet 1878, il n’est effectif qu' en mai 1927).</p>
 <p>Ce sont les tramways lausannois qui y installent leur dépôt en 1902 : le quartier se dote aussi d’une industrie de biscuits (Manufacture de Biscuits (1904-1910)) qui forment le caractère ouvrier et industriel du quartier. La chronique des faits divers est principalement dominée par des accidents de tramways (vélos ou piétons).</p>
 <div class="obs-img-container">
-<img src="icono/pontaise_142852.jpg" class="obs-img" alt="Tram sur la rue de la Pontaise" />
-<span class="obs-caption">Tram sur la rue de la Pontaise et l'avenue Druey 1900–1911</span>
+<img src="images/CollègePrelaz.jpg" class="obs-img" alt="Collège de Prélaz" />
+<span class="obs-caption">Collège de Prélaz</span>
 </div>
 </div>
 </div>
@@ -174,14 +174,19 @@ box-shadow: none;
 <span class="obs-caption">Extrait de la Gazette de Lausanne - L'affaire de la tenue de sortie</span>
 </div>
 
-<h4>Tensions à la Pontaise : eau, commerce et sécurité</h4>
+<h4>Tensions à la Pontaise : <br/>Eau, commerce et sécurité</h4>
 <p>Plusieurs pénuries d’eau frappent le quartier de la Pontaise en 1887, notamment à cause de la présence simultanée des casernes et des abattoirs, particulièrement aquavores. Une intense activité commerciale se développe dans le quartier autour de la Caserne, profitant notamment des sorties de recrues, qui remplissent les cafés attenants.</p>
 <p>Cette dépendance commerciale est particulièrement palpable en 1901 lorsque le Colonel Wassmer refuse aux militaires de sortir à midi sans leur tenue de sortie, les incitant à rester en caserne. Le quartier s’insurge, faisant parvenir une pétition au Conseil Fédéral. Selon la <em>Gazette de Lausanne</em> du 29 mai 1901, les commerçants de la Pontaise dépendent de ces pauses de midi, avant l’appel de deux heures. Cette contrainte réglementaire incitait les militaires à délaisser les abords de la caserne, au déplaisir des commerçants du quartier.</p>
 <p>Le quartier voit ses rues nommées afin de mettre fin au “dédale” installé par l’aménagement chaotique progressif des rues. Le café de la Violette, dit de tempérance, vient s’installer non loin de la caserne pour combattre les dérives de l’alcool.</p>
 <p>Le stand de tir pose également problème : un grave accident survient en 1912 où une manipulation dangereuse fait perdre la vie à un père de famille. Bien que le stand fût sécurisé en 1921 (murs en béton, cibles électriques), son emplacement continuera à faire débat.</p>
 </div>
+<div class="obs-clearfix">
+<div class="obs-float-right">
+<img src="icono/pontaise_142852.jpg" class="obs-img" alt="Tram sur la rue de la Pontaise" />
+<span class="obs-caption">Tram sur la rue de la Pontaise et l'avenue Druey 1900–1911</span>
+</div>
 
-<h4>Tensions à Prélaz : inondations, transports et hygiénisme</h4>
+<h4>Tensions à Prélaz : <br/>Inondations, transports et hygiénisme</h4>
 <p>A Prélaz, les inondations du Flon et de la Mèbre sont fréquentes et mettent en péril les cultures ouvrières (1910 et 1917) et on y déplore several accidents de la route entre des piétons, vélos et les multiples tramways sortant du dépôt.</p>
 <p>Le collège de Prélaz, fini en 1908, est une prouesse pour l’époque : avec ses baies vitrées et son linoléum, l’établissement scolaire est à la pointe de la technologie hygiéniste. Malgré son coût (fr. 500’000), il a le rapport prix/classe le plus attractif de Lausanne.</p>
 <p>Face à la population grandissante, la Société coopérative d’habitation fonde la cité ouvrière de <em>Prélaz-Cottages</em>, un sous-quartier qui se démarque par des maisons en terre cuite et ciment, dotées de jardins ouvriers. Standardisées, elles respectent des règles sanitaires afin d’assurer la salubrité des nouvelles habitations. L’hygiénisme est une réponse à la crise du logement ouvrier engendrée par l’industrialisation du quartier.</p>
@@ -257,6 +262,11 @@ box-shadow: none;
 <p>À la Pontaise, c’est l’esplanade militaire (<strong>Pré Noverraz</strong>), en face de la caserne qui sert de lieu de promenade pour les civils qui viennent écouter la fanfare. La proximité peut néanmoins créer des frictions entre la population civile et les militaires. En 1905, après des insultes proférées à l’égard de soldats, la garde est sommée de charger la foule à la baïonnette.</p>
 <p>Le voisinage est parfois source de tensions au sein des ménages. En 1933, une affaire judiciaire éclate autour du meurtre de M. Gaudard par V. Longchamp. Cet incident dramatique est l’aboutissement d’une dispute entre voisines au sujet d’un trou dans un mur mitoyen pour accrocher une bicyclette.</p>
 <p>À Prélaz, on pourra noter que les <strong>jardins ouvriers</strong> et les cours intérieures ont pu servir de lieux de sociabilisation. La cité coopérative de <em>Prélaz-Cottages</em>, créée en 1921 est l’occasion pour les locataires de se rencontrer car chacun a son jardin de 100 mètres carrés. Ils peuvent aussi bricoler dans les ateliers partagés du sous-sol.</p>
+<div class="obs-img-container">
+<img src="images/JardinsPrelaz.jpg" class="obs-img" alt="Jardins Prélaz" />
+<span class="obs-caption">Jardins de Prélaz</span>
+</div>
+
 </div>
 </div>
 
