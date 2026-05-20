@@ -9,6 +9,12 @@ console.log("libraries imported");
 
 const years = [1871, 1890, 1900, 1903, 1910, 1912, 1925];
 const places = ["Pontaise", "Prelaz"];
+let fill = d3.schemeCategory10;
+let [cHeight, cWidth] = [500, document.getElementById("observablehq-main").offsetWidth];
+const mapProportion = 0.6;
+const widthSafeMargin = 0.90;
+const [mapHeight, mapWidth] = [cHeight, mapProportion * cWidth * widthSafeMargin]
+const [svgHeight, svgWidth] = [cHeight, (1 - mapProportion) * cWidth * widthSafeMargin];
 
 let toponyms = new Map([
     ["Pontaise", new Map()],
@@ -54,27 +60,40 @@ const lausanneLayers = [
 
 const mapYears = lausanneLayers.map(x => x.year);
 
+function nearestYear(years, year) {
+      let nearestYear = 0;
+      let nearestInterval = Infinity;
+      for (let cy of years) {
+          const currentInterval = Math.abs(year - cy);
+          if (currentInterval < nearestInterval && year >= cy) {
+              nearestInterval = currentInterval;
+              nearestYear = cy;
+          }
+      }
+      return nearestYear;
+  }
+
 function mapNameFromYear(year) {
-    function nearestYear(years, year) {
-        let nearestYear = 0;
-        let nearestInterval = Infinity;
-        for (let cy of years) {
-            const currentInterval = Math.abs(year - cy);
-            if (currentInterval < nearestInterval && year >= cy) {
-                nearestInterval = currentInterval;
-                nearestYear = cy;
-            }
-        }
-        return nearestYear;
-    }
     return lausanneLayers.find(x => x.year === nearestYear(mapYears, year));
 }
 ```
 
+<style>
+  .map, .wordcloud {
+    display: inline-block;
+  }
+
+  .mapcloud-container {
+    overflow: hidden;
+  }
+</style>
+
 <div id="pontaise-container">
     <p>Carte actuelle: <span id="pontaise-map-name"></span>
-    <div id="pontaise-map"></div>
-    <svg id="pontaise-wordcloud"></svg>
+    <div class="mapcloud-container">
+      <div id="pontaise-map" class="map"></div>
+      <svg id="pontaise-wordcloud" class="wordcloud"></svg>
+    </div>
 </div>
 
 ```js
@@ -86,8 +105,10 @@ const selectedLayer = mapNameFromYear(year);
 ```
 
 <div id="prelaz-container">
-    <div id="prelaz-map"></div>
-    <svg id="prelaz-wordcloud"></svg>
+  <div class="mapcloud-container">
+    <div id="prelaz-map" class="map"></div>
+    <svg id="prelaz-wordcloud" class="wordcloud"></svg>
+  </div>
 </div>
 
 ```js
@@ -98,9 +119,9 @@ function wmtsUrl(layerName) {
 
 // Create map with OSM base layer
 const mapPontaiseDiv = document.getElementById("pontaise-map");
-mapPontaiseDiv.style = "height: 500px; width: 70%; margin: 1em 0;";
+mapPontaiseDiv.style = `height: ${mapHeight}px; width: ${mapWidth}px; margin: 1em 0;`;
 const mapPrelazDiv = document.getElementById("prelaz-map");
-mapPrelazDiv.style = "height: 500px; width: 70%; margin: 1em 0;";
+mapPrelazDiv.style = `height: ${mapHeight}px; width: ${mapWidth}px; margin: 1em 0;`;
 
 const historicalMapPontaise = L.map(mapPontaiseDiv).setView([46.527978, 6.630435], 16);
 const historicalMapPrelaz = L.map(mapPrelazDiv).setView([46.526414, 6.613091], 16);
@@ -145,16 +166,112 @@ invalidation.then(() => historicalMapPrelaz.remove());
 
 ```js
 let pontaiseSpace = d3.select("#pontaise-wordcloud")
-    .attr("width", "40%")
-    .attr("height", 500)
+    .attr("width", svgWidth)
+    .attr("height", svgHeight)
     .append("g");
 
-pontaiseSpace.attr("transform", `translate(${pontaiseSpace.width/2},${pontaiseSpace.height/2})`);
+pontaiseSpace.attr("transform", `translate(${svgWidth/2},${svgHeight/2})`);
 
 let prelazSpace = d3.select("#prelaz-wordcloud")
-    .attr("width", "40%")
-    .attr("height", 500)
+    .attr("width", svgWidth)
+    .attr("height", svgHeight)
     .append("g");
 
-prelazSpace.attr("transform", `translate(${prelazSpace.width/2},${prelazSpace.height/2})`);
+prelazSpace.attr("transform", `translate(${svgWidth/2},${svgHeight/2})`);
+
+function draw(words, svgSpace){
+  console.log('must draw:', words)
+
+  const cloud = svgSpace.selectAll("g text")
+    .data(words, function(d) { return d.text; })
+
+  //Entering words
+  cloud.enter()
+    .append("text")
+    .style("font-family", "Impact")
+    .style("fill", function(d, i) { return fill[i % 10]; })
+    .attr("text-anchor", "middle")
+    .style("font-size", function(d) { return d.size + "px"; })
+    .attr("transform", function(d) {
+      return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+    })
+    .text(function(d) { return d.text; })
+    .on('click', (token) => {
+      console.log('clicked', {token})
+    });
+  
+  cloud.exit()
+    .remove();
+}
+
+function drawPontaise(words) {
+  draw(words, pontaiseSpace);
+}
+
+function drawPrelaz(words) {
+  draw(words, prelazSpace);
+}
+
+function update(words, draw, elem) {
+  console.log("dimensions:", elem.offsetHeight, elem.offsetWidth);
+  console.log("Words set in cloud:", words);
+  d3Cloud()
+    .words(words)
+    .size([svgWidth, svgHeight])
+    .font('Impact')
+    .rotate(0)
+    .fontSize(function(d) { return d.sizeFactor * 10; })
+    // .padding(function(d) { return d.sizeFactor * 2; })
+    .on("end", draw)
+    .start();
+}
+
+function updatePontaise(words) {
+  update(words, drawPontaise, pontaiseSpace);
+}
+
+function updatePrelaz(words) {
+  update(words, drawPrelaz, prelazSpace);
+}
+
+function selectSizeFactor(min, max, value) {
+  let a = (max - min) / (10 - 1);
+  if (a == 0)
+    a = 1;
+  const b = max - a * 10
+  return (value - b) / a;
+}
+
+function prepareWords(words) {
+  words = words.reduce(function(wordMap, word) {
+      wordMap[word] = (wordMap[word] || 0) + 1
+      return wordMap;
+    }, {});
+  
+  const counters = Object.values(words);
+  const max = Math.max(...counters);
+  const min = Math.min(...counters);
+  
+  return Object.entries(words).map(([text, count]) => ({text: text, sizeFactor: Math.floor(selectSizeFactor(min, max, count) + 5 * Math.random())}))
+}
+```
+
+```js
+const current_words_pontaise = toponyms.get("Pontaise").get(nearestYear(years, year));
+```
+
+```js
+const current_words_prelaz = toponyms.get("Prelaz").get(nearestYear(years, year));
+```
+
+```js
+let split_words_pontaise = [].concat(...current_words_pontaise.map(x => x.place.split(" ")));
+
+let split_words_prelaz = [].concat(...current_words_prelaz.map(x => x.place.split(" ")));
+
+let preparedWordsPontaise = prepareWords(split_words_pontaise);
+let preparedWordsPrelaz = prepareWords(split_words_prelaz);
+
+updatePontaise(preparedWordsPontaise);
+updatePrelaz(preparedWordsPrelaz);
 ```
