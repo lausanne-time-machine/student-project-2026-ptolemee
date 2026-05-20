@@ -4,16 +4,9 @@
 
 Cette carte interactive présente l'évolution des bâtiments dans deux secteurs de Lausanne, Pontaise et Prélaz. Elle affiche les constructions qui intersectent les limites de chaque secteur.
 
-### Légende de la carte
-
-- **<span style="color:#1f77b4">■</span> Limite de Pontaise** - Contour continu de la zone de Pontaise
-- **<span style="color:#9467bd">■</span> Limite de Prélaz** - Contour continu de la zone de Prélaz
-
-Les bâtiments visibles correspondent aux constructions situées à l'intérieur des secteurs représentés. Les couleurs de la carte suivent celles utilisées dans l'HTML intégré.
-
 ---
 
-## Interactive Map
+## Carte Interactive 
 
 ```js
 const container = display(document.createElement("div"));
@@ -31,29 +24,8 @@ invalidation.then(() => {
 });
 ```
 
----
-
-## Secteur de Pontaise
-
-**Localisation :** Partie centre-est du centre de Lausanne  
-**Importance historique :** Secteur résidentiel et commercial important  
-
-La carte permet d'observer la répartition des bâtiments et leurs transformations dans le secteur de Pontaise. Le contour coloré indique la zone étudiée.
-
----
-
-## Secteur de Prélaz
-
-**Localisation :** Partie ouest du centre de Lausanne  
-**Importance historique :** Secteur résidentiel en développement et à usages mixtes
-
-La carte permet d'observer la répartition des bâtiments et leurs transformations dans le secteur de Prélaz. Le contour coloré indique la zone étudiée.
-
----
-
 ## Notes sur les données
 
-- Tous les bâtiments sont représentés par leur emprise actuelle
+- Tous les bâtiments sont représentés par leur emprise de 1945
 - L'évolution historique peut être suivie à partir des données disponibles
-- Les limites des secteurs correspondent aux divisions administratives officielles
-- Les couleurs de la carte proviennent de l'HTML intégré dans cette page
+- Les limites des secteurs correspondent aux divisions administratives officielles du secteur 1503 pour la pontaise et 301 et 304 pour la pontaise.
