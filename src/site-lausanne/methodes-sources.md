@@ -20,3 +20,4 @@ Ce n’est pas une méthode exacte pour déterminer l'évolution du bâti car l'
 
 ## Iconographie
 
+La source de l'iconographie de Lausanne est le Musée historique de Lausanne. Les images sont géolocalisées. Cela permet de filtrer les images dans les secteurs administratifs de la Pontaise et de Prélaz entre 1845 et 1951. Nous avons ajouté un buffer de 100 mètres pour inclure des endroits importants comme la caserne qui se situent juste en dehors du secteur. L’iconographie de tout Lausane peut se voir sur le site [icon-lausanne](https://icono-lausanne.github.io/). Ces images sont aussi intégrées à la [Time Atlas](https://timeatlas.eu/), qui contient une iconographie plus globale.  
