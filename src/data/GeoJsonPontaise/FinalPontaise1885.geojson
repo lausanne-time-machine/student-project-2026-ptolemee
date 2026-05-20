@@ -1,0 +1,3729 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628901,
+          46.527975
+        ]
+      },
+      "properties": {
+        "address": "['avenueBelles-Roches, 4']",
+        "Nom": "Avenue Belles Roches",
+        "Métier": "['archiviste cantonal']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Aymon, archiviste cantonal, avenueBelles-Roches, 4.",
+        "sheet": "Avenue Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['avenueBelles-Roches, 1', '.']",
+        "Nom": "Avenue Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "De Molin, Alois, fils, étudiant, avenueBelles-Roches, 1.",
+        "sheet": "Avenue Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630252,
+          46.526946
+        ]
+      },
+      "properties": {
+        "address": "['du Pré, 35', 'avenue Davel, 2']",
+        "Nom": "Avenue Davel",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "du Pré, 35. (Domic., avenue Davel, 2.)",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630252,
+          46.526946
+        ]
+      },
+      "properties": {
+        "address": "['avenue Davel, 4']",
+        "Nom": "Avenue Davel",
+        "Métier": "['rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "Delisle - Fontannes, Louisa, rentière,avenue Davel, 4.",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630252,
+          46.526946
+        ]
+      },
+      "properties": {
+        "address": "['r. du Pré, 36', 'Domicile, avenueDavel', ', 2']",
+        "Nom": "Avenue Davel",
+        "Métier": "['tanneur', ',commerce de cuirs (bureau et tannerie']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Demiéville-Bolens, Ch'-Adrien, tanneur,commerce de cuirs (bureau et tannerie), r. du Pré, 36. (Domicile, avenueDavel, 2.) R. C. — T.",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629666,
+          46.527053
+        ]
+      },
+      "properties": {
+        "address": "['la Charmille,avenue Davel, 7']",
+        "Nom": "Avenue Davel",
+        "Métier": "['instituteur']",
+        "Classification": "élevé",
+        "LigneOriginal": "Gaud, Alexis, instituteur, la Charmille,avenue Davel, 7.",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629666,
+          46.527053
+        ]
+      },
+      "properties": {
+        "address": "['avenue Davel, 7']",
+        "Nom": "Avenue Davel",
+        "Métier": "['rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Louise, rentière, avenue Davel, 7.",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629943,
+          46.526912
+        ]
+      },
+      "properties": {
+        "address": "['Haute-Vue, avenueDavei 5']",
+        "Nom": "Avenue Davel",
+        "Métier": "['ministre', ', pension pourjeunes garçons']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Montandon, Paul, ministre, pension pourjeunes garçons, Haute-Vue, avenueDavei 5.",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630647,
+          46.526537
+        ]
+      },
+      "properties": {
+        "address": "['à la Colline, avenueDavel, 1']",
+        "Nom": "Avenue Davel",
+        "Métier": "['pensionde jeunes gens', '. —']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Olivier-de Speyr, Ch.-F.-Gust., pensionde jeunes gens, à la Colline, avenueDavel, 1. — T.",
+        "sheet": "Avenue Davel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['café des Belles-Roches, Pontaise']",
+        "Nom": "Belles Roches",
+        "Métier": "['m. charpentier et cafetier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Buchi, Ulrich, m. charpentier et cafetier,café des Belles-Roches, Pontaise.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628575,
+          46.52814
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, 7']",
+        "Nom": "Belles Roches",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "av. Belles-Roches, 7.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628575,
+          46.52814
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, 7']",
+        "Nom": "Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "Chatelanat, Ernest, étudiant, av. Belles-Roches, 7.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628575,
+          46.52814
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, 7']",
+        "Nom": "Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Arthur, étudiant, av. Belles-Roches, 7.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629118,
+          46.527867
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, 2']",
+        "Nom": "Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Auguste, étudiant, av. Belles-Roches, 2.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['avenue des Belles-Roches, (']",
+        "Nom": "Belles Roches",
+        "Métier": "['rentier']",
+        "Classification": "inactif",
+        "LigneOriginal": "Grobet-Dunand, Jules-Emile-Louis, rentier, avenue des Belles-Roches, (1.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62867,
+          46.528092
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, 6']",
+        "Nom": "Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Paul, étudiant, av. Belles-Roches, 6.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62878,
+          46.528034
+        ]
+      },
+      "properties": {
+        "address": "['aven. Belles-Roches, 5']",
+        "Nom": "Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "Jaulmes, Charles, étudiant, aven. Belles-Roches, 5.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62867,
+          46.528092
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, 6']",
+        "Nom": "Belles Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Alfred, étudiant, av. Belles-Roches, 6.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches, Pontaise']",
+        "Nom": "Belles Roches",
+        "Métier": "['direct, de l’Orphelinat']",
+        "Classification": "élevé",
+        "LigneOriginal": "Walter, Louis-Constant, direct, de l’Orphelinat, av. Belles-Roches, Pontaise.",
+        "sheet": "Belles Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['à l’Orphelinat,Belles-Roches']",
+        "Nom": "Belles-Roches",
+        "Métier": "['jardinier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Blanc, Louis, jardinier, à l’Orphelinat,Belles-Roches.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches,3']",
+        "Nom": "Belles-Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Richard, étudiant, av. Belles-Roches,3.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['av.Belles-Roches,!.']",
+        "Nom": "Belles-Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "Doret, Gust., étudiant, av.Belles-Roches,!.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629118,
+          46.527867
+        ]
+      },
+      "properties": {
+        "address": "['av.Belles-Roches, 2']",
+        "Nom": "Belles-Roches",
+        "Métier": "['rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "Dubois-Morin, Anna-Laura, rentière, av.Belles-Roches, 2.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629118,
+          46.527867
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, 2']",
+        "Nom": "Belles-Roches",
+        "Métier": "['professeur à l’Académie']",
+        "Classification": "élevé",
+        "LigneOriginal": "Durand, Jean-Et.-Louis, professeur à l’Académie, Belles-Roches, 2.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629012,
+          46.527918
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, 3']",
+        "Nom": "Belles-Roches",
+        "Métier": "['professeur']",
+        "Classification": "élevé",
+        "LigneOriginal": "FavrodCoune - de Loës, Jules-Victor,professeur, Belles-Roches, 3.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628901,
+          46.527975
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, 4']",
+        "Nom": "Belles-Roches",
+        "Métier": "['ingénieurcantonal']",
+        "Classification": "élevé",
+        "LigneOriginal": "Gonin-Forchat, Louis-Albert, ingénieurcantonal, Belles-Roches, 4.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62867,
+          46.528092
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, 6']",
+        "Nom": "Belles-Roches",
+        "Métier": "['pasteur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Grobet, Ernest, pasteur. Belles-Roches, 6. +",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Ro-ches, Pontaise']",
+        "Nom": "Belles-Roches",
+        "Métier": "['éditeur']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Imer-Cuno, Arthur, éditeur, Belles-Ro-ches, Pontaise.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, Pontaise']",
+        "Nom": "Belles-Roches",
+        "Métier": "['dame', 'pension de demoiselles']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Elisa, dame, pension de demoiselles,Belles-Roches, Pontaise. R. C.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['av. Belles-Roches,']",
+        "Nom": "Belles-Roches",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": ",— Numa, étudiant, av. Belles-Roches, C.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, Pontaise']",
+        "Nom": "Belles-Roches",
+        "Métier": "['agriculteur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Noverraz-Noverraz, Samuel-Jaq., agriculteur, Belles-Roches, Pontaise.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['avenue des Belles-Roches,Pontaise']",
+        "Nom": "Belles-Roches",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Orphelinat, avenue des Belles-Roches,Pontaise.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628901,
+          46.527975
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, 4']",
+        "Nom": "Belles-Roches",
+        "Métier": "['rent']",
+        "Classification": "inactif",
+        "LigneOriginal": "Porchat, Amélie, rent., Belles-Roches, 4.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['Aigrefeuille, av.Belles-Roches']",
+        "Nom": "Belles-Roches",
+        "Métier": "['gérant dela Société du gaz']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Regamey-Noverraz, Jaques, gérant dela Société du gaz, Aigrefeuille, av.Belles-Roches.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628575,
+          46.52814
+        ]
+      },
+      "properties": {
+        "address": "['av.Belles-Roches, 7']",
+        "Nom": "Belles-Roches",
+        "Métier": "['rentier']",
+        "Classification": "inactif",
+        "LigneOriginal": "Scheerwood, Thomas-André, rentier, av.Belles-Roches, 7.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.628948,
+          46.528148
+        ]
+      },
+      "properties": {
+        "address": "['Belles-Roches, 1', '.']",
+        "Nom": "Belles-Roches",
+        "Métier": "['professeur, pensionde jeunes gens']",
+        "Classification": "élevé",
+        "LigneOriginal": "Vulliemin, Charles, professeur, pensionde jeunes gens, Belles-Roches, 1.",
+        "sheet": "Belles-Roches",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630552,
+          46.524224
+        ]
+      },
+      "properties": {
+        "address": "['Clos de Bulle,Beaulieu']",
+        "Nom": "Clos de Bulle",
+        "Métier": "['rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "Bolton, Nanette, rentière, Clos de Bulle,Beaulieu.",
+        "sheet": "Clos de Bulle",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630552,
+          46.524224
+        ]
+      },
+      "properties": {
+        "address": "['Clos de Bulle, Beaulieu']",
+        "Nom": "Clos de Bulle",
+        "Métier": "['rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Adèle, rentière, Clos de Bulle, Beaulieu.",
+        "sheet": "Clos de Bulle",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630552,
+          46.524224
+        ]
+      },
+      "properties": {
+        "address": "['Clos de Bulle, Beaulieu']",
+        "Nom": "Clos de Bulle",
+        "Métier": "['rent']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Arabelle, rent., Clos de Bulle, Beaulieu.",
+        "sheet": "Clos de Bulle",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['serrurier']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Frédéric-Oswald, serrurier, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['employé Suisse Occid']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Louis, employé Suisse Occid., la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['journalier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Blanc-Pricam, F', journalier, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['routede la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['maître charpentier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Jn-Frédéric, maître charpentier, routede la Borde, R. C. — T.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde, Pontaise']",
+        "Nom": "La Borde",
+        "Métier": "['entrepreneur']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Jean, entrepreneur, la Borde, Pontaise.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['à la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['charretier', 'm. Porchet']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Delmarco, Conrad,charretier, m. Porchet,à la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['moulin dela Borde']",
+        "Nom": "La Borde",
+        "Métier": "['meunier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Droguet, Edouard, meunier, moulin dela Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['moulin de la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['meun']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Marianne, meun., moulin de la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['m. charretier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Formica, Joseph, m. charretier, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['charretier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Antoine, charretier, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['charpent']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Gris, Jaques-Franç., charpent., la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['ouv. chocolatière']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Louise, ouv. chocolatière, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['tanneur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Marc-Gabriel, tanneur, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Fraisière, la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['m. jardinier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Hugon, François-Louis-Sam., m. jardinier,la Fraisière, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['charpentier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Henri-Louis, charpentier, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['à la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['cafetier', 'café des Abattoirs']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Lapp, Adolphe, cafetier, café des Abattoirs, à la Borde, R. C.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629976,
+          46.532314
+        ]
+      },
+      "properties": {
+        "address": "['la Borde']",
+        "Nom": "La Borde",
+        "Métier": "['ni. charpentier']",
+        "Classification": "",
+        "LigneOriginal": "— Daniel., ni. charpentier, la Borde.",
+        "sheet": "La Borde",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.611954,
+          46.521631
+        ]
+      },
+      "properties": {
+        "address": "['la Colline,av. Davel']",
+        "Nom": "La Colline",
+        "Métier": "['profess, de langues', ', dessin,modelage et calligraphie']",
+        "Classification": "élevé",
+        "LigneOriginal": "Stein, Lewis, profess, de langues, dessin,modelage et calligraphie, la Colline,av. Davel.",
+        "sheet": "La Colline",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Pontaise']",
+        "Nom": "La Pontaise",
+        "Métier": "['juge cantonal']",
+        "Classification": "élevé",
+        "LigneOriginal": "Correvon-Martin, Gustave, juge cantonal, villa Pontaise.",
+        "sheet": "La Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Standde la Pontaise']",
+        "Nom": "La Pontaise",
+        "Métier": "['cafetier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Corsat-Chaubert, Jean, cafetier, Standde la Pontaise.",
+        "sheet": "La Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Pontaise']",
+        "Nom": "La Pontaise",
+        "Métier": "['casernier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Jeanmonod-Borgeaud, Henri, casernier,la Pontaise.",
+        "sheet": "La Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Pontaise']",
+        "Nom": "La Pontaise",
+        "Métier": "['profess, de sciencesphysiques et naturelles']",
+        "Classification": "élevé",
+        "LigneOriginal": "KrafFt-Verrey, Henri, profess, de sciencesphysiques et naturelles, villa Pontaise.",
+        "sheet": "La Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Pontaise']",
+        "Nom": "La Pontaise",
+        "Métier": "['capitaine-instructeur']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Regis-Hurter, Benjamin, capitaine-instructeur, villa Pontaise.",
+        "sheet": "La Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Pontaise']",
+        "Nom": "La Pontaise",
+        "Métier": "['employé']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Emile, employé, villa Pontaise.",
+        "sheet": "La Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.654553,
+          46.541964
+        ]
+      },
+      "properties": {
+        "address": "['la Source,Beaulieu']",
+        "Nom": "La Source",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Institut des gardes-malades, la Source,Beaulieu.",
+        "sheet": "La Source",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.654553,
+          46.541964
+        ]
+      },
+      "properties": {
+        "address": "['la Source, Beaulieu']",
+        "Nom": "La Source",
+        "Métier": "['directeur de l’Institut desgardes-malades']",
+        "Classification": "élevé",
+        "LigneOriginal": "— Antoine, directeur de l’Institut desgardes-malades, la Source, Beaulieu.",
+        "sheet": "La Source",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631079,
+          46.523462
+        ]
+      },
+      "properties": {
+        "address": "['Grand-Chêne, 6', 'Domicile,camp, le Valentin']",
+        "Nom": "Le Valentin",
+        "Métier": "['avocat(bureau)']",
+        "Classification": "élevé",
+        "LigneOriginal": "Boiceau-Hollard, Charles-Marc, avocat(bureau), Grand-Chêne, 6. (Domicile,camp, le Valentin.)",
+        "sheet": "Le Valentin",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631079,
+          46.523462
+        ]
+      },
+      "properties": {
+        "address": "['le Valentin']",
+        "Nom": "Le Valentin",
+        "Métier": "['camp']",
+        "Classification": "???",
+        "LigneOriginal": "— Justin, camp, le Valentin.",
+        "sheet": "Le Valentin",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631079,
+          46.523462
+        ]
+      },
+      "properties": {
+        "address": "['Clos-Mont a,le Valentin']",
+        "Nom": "Le Valentin",
+        "Métier": "['évangéliste']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Petter, Eugène, évangéliste, Clos-Mont a,le Valentin.",
+        "sheet": "Le Valentin",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin, 3, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['professeur à l’Académie']",
+        "Classification": "élevé",
+        "LigneOriginal": "Amstein, Hermann, professeur à l’Académie. Clos-du-Matin, 3, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['boulanger,']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Audibert-Philippe, Auguste, boulanger,l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['propriét']",
+        "Classification": "inactif",
+        "LigneOriginal": "Badan, Jean-Eranç., propriét., Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Treille, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journal']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Susanne, journal., la Treille, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['café du Mont-Blanc, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['cafetier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Balissat-, Emile, cafetier, café du Mont-Blanc, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Repos-Cottage, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['professeur de langues']",
+        "Classification": "élevé",
+        "LigneOriginal": "— Rodolphe-Sam., professeur de langues,Repos-Cottage, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['géomètrebreveté']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Barraud-Moulin, Jean-Sam., géomètrebreveté, le Verger, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['dame', 'organiste']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— dame, organiste, le Verger, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['café Bellevue,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['cafetier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Basler, Georges, cafetier, café Bellevue,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Bazar des Casernes, Pontaise, R. C.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Bluet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['secrétaire au bureau du<-timbre']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Bérard, Jules, secrétaire au bureau du<-timbre, le Bluet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’CEillet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['notaire']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Léon, notaire, l’CEillet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Prairie,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['éditeur']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Blanc-Abetel, S1, éditeur, la Prairie,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['café desAlpes, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['typographe']",
+        "Classification": "",
+        "LigneOriginal": "Blanc-Blanc, Jules, typographe, café desAlpes, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['cafédes Alpes, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "Blanc-Dufey, Georgette, ménagère, cafédes Alpes, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maison Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['bûcheron']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— L\", bûcheron, maison Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Prairie,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['capitaine-instruct']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Christian, capitaine-instruct., la Prairie,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Pensée, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['lieut.-colonel-instructêur']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Bourgoz-Kossier, David, lieut.-colonel-instructêur, la Pensée, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Pensée, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Eugénie, la Pensée, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['étudiant', 'mais. Barraud']",
+        "Classification": "inactif",
+        "LigneOriginal": "Bouvet, Elisée, étudiant, mais. Barraud,le Verger, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Pensée, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "d’infanterie, la Pensée, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "• Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['charpentier', 'épicerie,mercerie']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Brouty, Ignace , charpentier, épicerie,mercerie, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise', 'C.']",
+        "Nom": "Pontaise",
+        "Métier": "['fruits et légumes']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Buchi-Wittenbach, Anna , fruits et légumes, Pontaise, R. C.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Ma Campagne, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['commissionnaire-portefaix']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Jules-Alphonse, commissionnaire-portefaix, Ma Campagne, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['au Muguet,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['rentier']",
+        "Classification": "inactif",
+        "LigneOriginal": "Bush, Georges-II., rentier, au Muguet,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maisonBadan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['tapissier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Buttner, Adam-Franç., tapissier, maisonBadan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Jenny, ménagère, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['m. Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journalière']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Fanny, journalière, m. Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['ni. Badan,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journalier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Cloux, Jules-Louis, journalier, ni. Badan,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Chalet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['écrivain']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Marc-Hri, écrivain, le Chalet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Mon Plaisir, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['plâtrier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Marc, plâtrier, Mon Plaisir, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['agriculteur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Cottier-Duruz, Louis, agriculteur, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employée postale']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Cottier, Marie, employée postale, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['laPrairie, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employé postal']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Couehepin, Joseph, employé postal, laPrairie, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['gypsier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Oscar, gypsier, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['domestique']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— F\", domestique, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['maçon']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Samuel, maçon, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['maçon']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Pierre, maçon, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['tailleur de pierres']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Devaud-Blane, Fréd., tailleur de pierres,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['veuve', 'rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "Dind, Bertba, veuve, rentière, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['comptable']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Jean-Frédéric, comptable, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['repasseuse']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Marie, repasseuse, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Mont-Blanc,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['marchande']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Dorier, Justine, marchande, Mont-Blanc,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['café des Grandes-Ro-ches, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Duboehet, Anna, café des Grandes-Ro-ches, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['typographe']",
+        "Classification": "",
+        "LigneOriginal": "— Jules-Henn, typographe, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Prairie, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journalier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Louis, journalier, la Prairie, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['laRosièrc-des-Roches, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employé auBureau cantonal des étrangers']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Ducret-Barraud, François, employé auBureau cantonal des étrangers, laRosièrc-des-Roches, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['leVerger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['veuve', 'pension pour jeunes demoiselles']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Duplan-Gaudard, Louise-Cather.. veuve,pension pour jeunes demoiselles, leVerger, Pontaise. (V. aux annonces.)",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employé']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Duplan, René, fils, employé, le Verger,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Jean-Louis, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Prairie, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employé']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Félix, employé, la Prairie, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['vannier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Gattabin, Edouard, vannier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['vannier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Alois, vannier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Louise, ménagère, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Etoile, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['m. tailleur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Jn-Dan., m. tailleur, l’Etoile, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['m.Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['bûcheron']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Ginggen, Eugène-Alfred, bûcheron, m.Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['facteur postal']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Grepin-Biolley, Emile, facteur postal,villa Jehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "Gurtner, Susanne, ménagère, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['la Treille, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['m. cordonnier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Jn, m. cordonnier, la Treille, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jelil, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['rentier']",
+        "Classification": "inactif",
+        "LigneOriginal": "Jehl, Joseph, rentier, villa Jelil, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['pianiste']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Joseph, pianiste, villa Jehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maison Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['tanneur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Kirehhofer, Charles-Louis, tanneur, maison Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['r. Haldimand, 10 b.', 'au Verger,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['notaire (étude']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Jules-Louis, notaire (étude), r. Haldimand, 10 b. (Domicile, au Verger,Pontaise.)",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['tils']",
+        "Classification": "???",
+        "LigneOriginal": "— Jules, tils, le Verger, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Fernand, le Verger, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maison Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journalier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Kremser, François-Joseph, journalier,maison Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journalier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Louis, journalier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['tailleur de pierres']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Charles, tailleur de pierres, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Eglantier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['dame', 'rent']",
+        "Classification": "inactif",
+        "LigneOriginal": "Löwe, dame, rent., l’Eglantier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin,l, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['rent']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Fanny, rent., Clos-du-Matin,l, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "[',Clos-du-Matin, 1', 'Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['instit']",
+        "Classification": "élevé",
+        "LigneOriginal": "— Julie, instit.,Clos-du-Matin, 1, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "[',le Verger, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['veuve', 'ménag']",
+        "Classification": "inactif",
+        "LigneOriginal": "Matthey.Jonais, Marie, veuve, ménag.,le Verger, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['étudiant']",
+        "Classification": "inactif",
+        "LigneOriginal": "Matthey, Robert, étudiant, le Verger,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Verger,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['école particul']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— demoiselles, école particul., le Verger,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journalier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— François-Louis, journalier, l’Abricotier,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['m. Pache, près du Stand, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['professeur de dessin']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Miéville, Leopold, professeur de dessin,m. Pache, près du Stand, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['régente']",
+        "Classification": "élevé",
+        "LigneOriginal": "— Emma, régente, Orphelinat, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Ma Campagne, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['m. gypsier-peintre']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Jaques, m. gypsier-peintre, Ma Campagne, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['café des Alpes,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Fache-Chapuis, Alex., café des Alpes,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Ma Campagne, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['jardinier du cimetière de la Pon']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Félix, jardinier du cimetière de la Pon-taise, Ma Campagne, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Muguet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['pension de demoiselles']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Pinel, Emma-Louise, pension de demoiselles, le Muguet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Muguet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['secrétaire en chef duDép. militaire']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Pingoud, Alfred, secrétaire en chef duDép. militaire, le Muguet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Ma Campagne, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[', tailleur de pierres']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Porchet-Redard, La, tailleur de pierres,Ma Campagne, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['chalet Suisse,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Jeanne-Louise, ménagère, chalet Suisse,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['chalet Suisse, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Emile, chalet Suisse, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Suisse, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Adolphe, chalet Suisse, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['chalet Suisse, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Porchet, Emma, chalet Suisse, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['laPensée, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['professeur']",
+        "Classification": "élevé",
+        "LigneOriginal": "Porret, Charles-Frédéric, professeur, laPensée, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Mon Plaisir, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employéS. O.-S.']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Poschung-Junod, Jules-Marc, employéS. O.-S., Mon Plaisir, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Mon Plaisir,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['dame', 'articles divers']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— dame, articles divers, Mon Plaisir,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Marguerite, ménagère, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['commis', 'm. Pacbe']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Louis, commis, m. Pacbe, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['m. Pache, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['dame', 'lingère']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— dame, lingère, m. Pache, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Etoile, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['géomètre breveté']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Rochat-Ferrin, Henri, géomètre breveté,l’Etoile, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['à l’Œillet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['artiste-musicien et accordeur de pianos']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Rœser, Henri, artiste-musicien et accordeur de pianos, à l’Œillet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['brasseur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Romang, Jean-Pierre, brasseur, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villaJehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['veuve', 'ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "Rossat-Hirschy, veuve, ménagère, villaJehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['empi']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Rossat, Alfred, empi., villa Jehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['employé']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— François, employé, villa Jehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Julien, villa Jehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['villa Jehl, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['institut']",
+        "Classification": "élevé",
+        "LigneOriginal": "— Lydie, institut., villa Jehl, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['leChalet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['charpentier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Rubattel, Jean-François, charpentier, leChalet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin, 2, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['demoiselle', 'maîtresse d’école particulière']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Lina, demoiselle, maîtresse d’école particulière, Clos-du-Matin, 2, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['cantinedes Casernes, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['veuve']",
+        "Classification": "inactif",
+        "LigneOriginal": "Seewer-Gonthier, Louise, veuve, cantinedes Casernes, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['mais. Hunziker', 'Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "Sermier-David, Pauline, mais. Hunziker,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin, 3', 'Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['contrôleur duDépartement des travaux publics']",
+        "Classification": "élevé",
+        "LigneOriginal": "Sorbière-Laeombe, Louis, contrôleur duDépartement des travaux publics ,Clos-du-Matin, 3, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin, 1,Pontaise,']",
+        "Nom": "Pontaise",
+        "Métier": "['chef de pensionnat de demois']",
+        "Classification": "élevé",
+        "LigneOriginal": "Sublet-Lugrin, Jules-Béat, chef de pensionnat de demois., Clos-du-Matin, 1,Pontaise, R. C.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['m. Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['journal']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Auguste, journal., m. Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Abricotier, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ouvrière']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Adèle, ouvrière, l’Abricotier, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin, 2', 'Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['professeur, pension de jeunes gens']",
+        "Classification": "élevé",
+        "LigneOriginal": "Thébault-Schriwaneck, Frédéric, professeur, pension de jeunes gens, Clos-du-Matin, 2, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Clos-du-Matin, 2', 'Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['dame', 'professeur de piano']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— dame , professeur de piano, Clos-du-Matin, 2, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['le Bluet, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['instit']",
+        "Classification": "élevé",
+        "LigneOriginal": "Trolliet, Eug., instit., le Bluet, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['laNormandie, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['professeur']",
+        "Classification": "élevé",
+        "LigneOriginal": "Tzaut-Cuénod, Samuel, professeur, laNormandie, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['tailleur']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Vassaux, Samuel, tailleur, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maisonPache, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['ménagère']",
+        "Classification": "inactif",
+        "LigneOriginal": "Vittel, Jeanne-Louise, ménagère, maisonPache, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maison Badan,Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['maréchal']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "— Jean-Samuel, maréchal, maison Badan,Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Jules, maison Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['maison Badan, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "[]",
+        "Classification": "",
+        "LigneOriginal": "— Théophile, maison Badan, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.624317,
+          46.533228
+        ]
+      },
+      "properties": {
+        "address": "['l’Etoile, Pontaise']",
+        "Nom": "Pontaise",
+        "Métier": "['cuisinier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Von Moos, A., cuisinier, l’Etoile, Pontaise.",
+        "sheet": "Pontaise",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632954,
+          46.52608
+        ]
+      },
+      "properties": {
+        "address": "['Riant Mont, Valentin']",
+        "Nom": "Riant Mont",
+        "Métier": "['pensionnat dedemoiselles']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Friedei & Grossmann, pensionnat dedemoiselles, Riant Mont, Valentin,R. C. - T.",
+        "sheet": "Riant Mont",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632954,
+          46.52608
+        ]
+      },
+      "properties": {
+        "address": "['Riant Mont. Valentin']",
+        "Nom": "Riant Mont",
+        "Métier": "['maîtresse de pension']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Friedel, Marie, maîtresse de pension,Riant Mont. Valentin.",
+        "sheet": "Riant Mont",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.632954,
+          46.52608
+        ]
+      },
+      "properties": {
+        "address": "['Riant Mont', '.']",
+        "Nom": "Riant Mont",
+        "Métier": "['portier']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Jules-Auguste, portier, Riant Mont.",
+        "sheet": "Riant Mont",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634735,
+          46.525672
+        ]
+      },
+      "properties": {
+        "address": "['route du Tunnel, 10']",
+        "Nom": "Route du Tunnel",
+        "Métier": "['négociant', 'tapis linoléum']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Avocat, Arnold, négociant, tapis linoléum,route du Tunnel, 10, R. C.",
+        "sheet": "Route du Tunnel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634735,
+          46.525673
+        ]
+      },
+      "properties": {
+        "address": "['route du Tunnel, 6']",
+        "Nom": "Route du Tunnel",
+        "Métier": "['professeur d’escrime']",
+        "Classification": "intermediaire",
+        "LigneOriginal": "Berthe, Nicolas, professeur d’escrime,route du Tunnel, 6.",
+        "sheet": "Route du Tunnel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634735,
+          46.525672
+        ]
+      },
+      "properties": {
+        "address": "[',', 'route du Tunnel, 4']",
+        "Nom": "Route du Tunnel",
+        "Métier": "['épicerie', 'confiserie']",
+        "Classification": "proletaire",
+        "LigneOriginal": "Morie r-Ram oie t, Henriette, épicerie ,confiserie, pâtisserie, route du Tunnel, 4, It. C.",
+        "sheet": "Route du Tunnel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634735,
+          46.525673
+        ]
+      },
+      "properties": {
+        "address": "['route du Tunnel, 7']",
+        "Nom": "Route du Tunnel",
+        "Métier": "['couturière']",
+        "Classification": "proletaire",
+        "LigneOriginal": "— Marie, couturière, route du Tunnel, 7.",
+        "sheet": "Route du Tunnel",
+        "year": 1885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.634735,
+          46.525672
+        ]
+      },
+      "properties": {
+        "address": "['route du Tunnel, 4']",
+        "Nom": "Route du Tunnel",
+        "Métier": "['rentière']",
+        "Classification": "inactif",
+        "LigneOriginal": "— Régina, rentière, route du Tunnel, 4.",
+        "sheet": "Route du Tunnel",
+        "year": 1885
+      }
+    }
+  ]
+}
