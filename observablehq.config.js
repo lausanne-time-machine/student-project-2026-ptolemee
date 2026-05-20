@@ -1,7 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
   // The app’s title; used in the sidebar and webpage titles.
-  title: "Student Project Template 2026",
+  title: "Quartiers de Lausanne",
 
   // The pages and sections in the sidebar. If you don’t specify this option,
   // all pages will be listed in alphabetical order. Listing pages explicitly
@@ -38,22 +38,22 @@ export default {
         { name: "Qui Sommes-Nous?",       path: "/site-lausanne/a-propos" }
       ]
     },
-    {
-      name: "Obervable Tutorial",
-      pages: [
-        { name: "Page Structure & Formatting", path: "/examples/01-page-structure" },
-        { name: "Reactivity & Inputs",         path: "/examples/02-reactivity" },
-        { name: "Loading Data & Tables",       path: "/examples/03-data-tables" },
-        { name: "Charts with Plot",            path: "/examples/04-charts" },
-        { name: "Interactive Maps (Leaflet)",  path: "/examples/05-maps-leaflet" },
-        { name: "Historical Maps (GeoServer)", path: "/examples/06-maps-historical" },
-        { name: "Analytical Maps (Plot)",      path: "/examples/07-maps-plot" },
-        { name: "Processing Data Server-Side",           path: "/examples/08-data-loaders" },
-        { name: "Venice 1740 Land Register (Python Loader)", path: "/examples/09-venice-landregister" },
-        { name: "Cadastre Rénové (1888)",      path: "/examples/10-lausanne-cadastre-renove" },
-        { name: "Word Clouds",      path: "/examples/11-word-cloud" },
-      ]
-    }
+    //{
+      //name: "Obervable Tutorial",
+      //pages: [
+        //{ name: "Page Structure & Formatting", path: "/examples/01-page-structure" },
+        //{ name: "Reactivity & Inputs",         path: "/examples/02-reactivity" },
+        //{ name: "Loading Data & Tables",       path: "/examples/03-data-tables" },
+        //{ name: "Charts with Plot",            path: "/examples/04-charts" },
+        //{ name: "Interactive Maps (Leaflet)",  path: "/examples/05-maps-leaflet" },
+        //{ name: "Historical Maps (GeoServer)", path: "/examples/06-maps-historical" },
+        //{ name: "Analytical Maps (Plot)",      path: "/examples/07-maps-plot" },
+        //{ name: "Processing Data Server-Side",           path: "/examples/08-data-loaders" },
+        //{ name: "Venice 1740 Land Register (Python Loader)", path: "/examples/09-venice-landregister" },
+        //{ name: "Cadastre Rénové (1888)",      path: "/examples/10-lausanne-cadastre-renove" },
+        //{ name: "Word Clouds",      path: "/examples/11-word-cloud" },
+      //]
+    //}
   ],
 
   // Content to add to the head of the page, e.g. for a favicon:
