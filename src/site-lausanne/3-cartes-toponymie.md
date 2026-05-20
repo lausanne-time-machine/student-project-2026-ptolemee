@@ -10,7 +10,7 @@ console.log("libraries imported");
 const years = [1871, 1890, 1900, 1903, 1910, 1912, 1925];
 const places = ["Pontaise", "Prelaz"];
 let fill = d3.schemeCategory10;
-let [cHeight, cWidth] = [500, document.getElementById("observablehq-main").offsetWidth];
+let [cHeight, cWidth] = [400, document.getElementById("pontaise-container").offsetWidth];
 const mapProportion = 0.6;
 const widthSafeMargin = 0.90;
 const [mapHeight, mapWidth] = [cHeight, mapProportion * cWidth * widthSafeMargin]
@@ -31,16 +31,10 @@ toponyms.get("Pontaise").set(1903, await FileAttachment("../data/TopoPontaise/To
 toponyms.get("Prelaz").set(1903, await FileAttachment("../data/TopoPrelaz/Topo1903.txt").csv());
 toponyms.get("Pontaise").set(1910, await FileAttachment("../data/TopoPontaise/Topo1910.txt").csv());
 toponyms.get("Prelaz").set(1910, await FileAttachment("../data/TopoPrelaz/Topo1910.txt").csv());
-toponyms.get("Pontaise").set(1912, await FileAttachment("../data/TopoPontaise/Topo1912.txt").csv());
+toponyms.get("Pontaise").set(1912, await FileAttachment("../data/TopoPontaise/Topo1910.txt").csv()); //!
 toponyms.get("Prelaz").set(1912, await FileAttachment("../data/TopoPrelaz/Topo1912.txt").csv());
 toponyms.get("Pontaise").set(1925, await FileAttachment("../data/TopoPontaise/Topo1925.txt").csv());
 toponyms.get("Prelaz").set(1925, await FileAttachment("../data/TopoPrelaz/Topo1925.txt").csv());
-
-console.log(toponyms);
-let current_year = 1925;
-let current_place = "Pontaise";
-
-let current_words = toponyms.get(current_place).get(current_year);
 
 console.log("Toponyms obtained");
 ```
@@ -85,6 +79,7 @@ function mapNameFromYear(year) {
 
   .mapcloud-container {
     overflow: hidden;
+    width: 100%;
   }
 </style>
 
@@ -97,7 +92,7 @@ function mapNameFromYear(year) {
 </div>
 
 ```js
-const year = view(Inputs.range([1871, 1925], {label: "Year", step: 1, value: 1871}))
+const year = view(Inputs.range([1871, 1925], {label: "Année", step: 1, value: 1871}))
 ```
 
 ```js
@@ -213,14 +208,13 @@ function drawPrelaz(words) {
 }
 
 function update(words, draw, elem) {
-  console.log("dimensions:", elem.offsetHeight, elem.offsetWidth);
   console.log("Words set in cloud:", words);
   d3Cloud()
     .words(words)
     .size([svgWidth, svgHeight])
     .font('Impact')
     .rotate(0)
-    .fontSize(function(d) { return d.sizeFactor * 10; })
+    .fontSize(function(d) { return d.sizeFactor * 5; })
     // .padding(function(d) { return d.sizeFactor * 2; })
     .on("end", draw)
     .start();
@@ -239,7 +233,7 @@ function selectSizeFactor(min, max, value) {
   if (a == 0)
     a = 1;
   const b = max - a * 10
-  return (value - b) / a;
+  return Math.ceil(Math.log(3 * (value - b) / a + 1));
 }
 
 function prepareWords(words) {
