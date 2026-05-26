@@ -6,18 +6,32 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.61614,
-          46.524566
+          46.524566,
+          6.61614
         ]
       },
       "properties": {
-        "address": "['avenue Recordon 24']",
-        "Nom": "Avenue Recordon",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "— Elisa-Suzanne, avenue Recordon 24",
-        "sheet": "Avenue Recordon",
-        "year": 1923
+        "points": [
+          {
+            "address": "['avenue Recordon 24']",
+            "Nom": "Avenue Recordon",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "— Elisa-Suzanne, avenue Recordon 24",
+            "sheet": "Avenue Recordon",
+            "year": 1923
+          },
+          {
+            "address": "['avenue Recordon 26']",
+            "Nom": "Avenue Recordon",
+            "Métier": "['. typo']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Rappaz-Golaz Aug. typo, avenue Recordon 26.",
+            "sheet": "Avenue Recordon",
+            "year": 1923
+          }
+        ],
+        "merged_count": 2
       }
     },
     {
@@ -25,18 +39,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.61614,
-          46.524566
+          46.527321,
+          6.615787
         ]
       },
       "properties": {
-        "address": "['avenue Recordon 26']",
-        "Nom": "Avenue Recordon",
-        "Métier": "['. typo']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Rappaz-Golaz Aug. typo, avenue Recordon 26.",
-        "sheet": "Avenue Recordon",
-        "year": 1923
+        "points": [
+          {
+            "address": "['avenue Recordon 32']",
+            "Nom": "Avenue Recordon",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Schneider-Grosclaudc Ch., avenue Recordon 32.",
+            "sheet": "Avenue Recordon",
+            "year": 1923
+          }
+        ],
+        "merged_count": 1
       }
     },
     {
@@ -44,18 +63,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.615787,
-          46.527321
+          46.526521,
+          6.615288
         ]
       },
       "properties": {
-        "address": "['avenue Recordon 32']",
-        "Nom": "Avenue Recordon",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Schneider-Grosclaudc Ch., avenue Recordon 32.",
-        "sheet": "Avenue Recordon",
-        "year": 1923
+        "points": [
+          {
+            "address": "['concierge.Collège de Prélaz']",
+            "Nom": "Collège de Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Collet-Duperret Louis, concierge.Collège de Prélaz.",
+            "sheet": "Collège de Prélaz",
+            "year": 1923
+          }
+        ],
+        "merged_count": 1
       }
     },
     {
@@ -63,18 +87,104 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.615288,
-          46.526521
+          46.53069,
+          6.625473
         ]
       },
       "properties": {
-        "address": "['concierge.Collège de Prélaz']",
-        "Nom": "Collège de Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Collet-Duperret Louis, concierge.Collège de Prélaz.",
-        "sheet": "Collège de Prélaz",
-        "year": 1923
+        "points": [
+          {
+            "address": "['La Violette,Vimlet-à-Gobet']",
+            "Nom": "La Violette",
+            "Métier": "['gouvern']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "— Marguerite, gouvern., La Violette,Vimlet-à-Gobet.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette, r. du Liseron']",
+            "Nom": "La Violette",
+            "Métier": "['vitrier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Caccia-Bosso Charles, vitrier, La Violette, r. du Liseron.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette, ch. Liseron']",
+            "Nom": "La Violette",
+            "Métier": "['chauff.au gaz']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Cevey-Vullierat Alfred-Julien, chauff.au gaz, La Violette, ch. Liseron.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette, r. du Liseron']",
+            "Nom": "La Violette",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "— Léa, La Violette, r. du Liseron.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette, r. du Liseron']",
+            "Nom": "La Violette",
+            "Métier": "['ménag']",
+            "Classification": "inactif",
+            "LigneOriginal": "Dufey-Pasteur Anna, ménag.. La Violette, r. du Liseron.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['compt.,La Violette, Pontaise']",
+            "Nom": "La Violette",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Hagmann-Biitikofcr Alfred, compt.,La Violette, Pontaise.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette, Chalet-à-Gobet.']",
+            "Nom": "La Violette",
+            "Métier": "['gouv']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "— Marie, gouv., La Violette, Chalet-à-Gobet.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette. av. Druey']",
+            "Nom": "La Violette",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Peytrcquin-Hagmann Marius, La Violette. av. Druey. T9409.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "['La Violette, Ouchy']",
+            "Nom": "La Violette",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Vuillerat Louis, La Violette, Ouchy.",
+            "sheet": "La Violette",
+            "year": 1923
+          },
+          {
+            "address": "[', laViolette, r. du Liseron']",
+            "Nom": "La Violette",
+            "Métier": "['batelier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Vulllerat-Chamot Charles, batelier, laViolette, r. du Liseron.",
+            "sheet": "La Violette",
+            "year": 1923
+          }
+        ],
+        "merged_count": 10
       }
     },
     {
@@ -82,18 +192,167 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.526388,
+          6.612685
         ]
       },
       "properties": {
-        "address": "['La Violette,Vimlet-à-Gobet']",
-        "Nom": "La Violette",
-        "Métier": "['gouvern']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "— Marguerite, gouvern., La Violette,Vimlet-à-Gobet.",
-        "sheet": "La Violette",
-        "year": 1923
+        "points": [
+          {
+            "address": "['PetitPrélaz, ch. de Renens']",
+            "Nom": "Prélaz",
+            "Métier": "['cultivateur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— J aques-Frédéric, cultivateur, PetitPrélaz, ch. de Renens. T9849.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz-les-Tourel-les, av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['archit']",
+            "Classification": "élevé",
+            "LigneOriginal": "— Arnold, archit., Prélaz-les-Tourel-les, av. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz-les-Tourelles,av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['étud']",
+            "Classification": "inactif",
+            "LigneOriginal": "— Paul, étud., Prélaz-les-Tourelles,av. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['let Arnold', 'journaliste,Prélaz-les-Tourelles, av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Bonard-Chai! let Arnold, journaliste,Prélaz-les-Tourelles, av. de Morges. TS710.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['PetitPrélaz. ch. de Reneus']",
+            "Nom": "Prélaz",
+            "Métier": "['négoc']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Déglon-Barraud Louisa, négoc., PetitPrélaz. ch. de Reneus.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz-les-Tourelles, av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['empi']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Favre-Haas Robert, empi., Prélaz-les-Tourelles, av. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz Nouveau, av. do Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['étud']",
+            "Classification": "inactif",
+            "LigneOriginal": "Frassou Armando, étud., Prélaz Nouveau, av. do Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz-Nouveau,av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['inst']",
+            "Classification": "élevé",
+            "LigneOriginal": "Gndit Valérie, inst., Prélaz-Nouveau,av. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz, av. Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['mécan']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "— Paul, mécan., Prélaz, av. Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz, av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['piqueur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Imhof-Tritten Jules, piqueur T.L., Prélaz, av. de Morges. T9816.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['électr.,Usine-dc Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Matti-Crottaz Henri-Charlcs, électr.,Usine-dc Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz-Nouveau, av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['ing']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Mury-Reymond Oscar, ing., Prélaz-Nouveau, av. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Petit Prélaz, av. île Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['empi, au gaz']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Pavillard-Cavin Ilonri, empi, au gaz,Petit Prélaz, av. île Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz Nouveau, av. Morges']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "— Olive, Prélaz Nouveau, av. Morges",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz Nouveau, av.de Merges']",
+            "Nom": "Prélaz",
+            "Métier": "['artiste dramat']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Rosselet-Bersot Julee-Bemard, artiste dramat., Prélaz Nouveau, av.de Merges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['v. Pré-laz, av. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['pension']",
+            "Classification": "inactif",
+            "LigneOriginal": "Stiffer-Hänig Emmy, pension, v. Pré-laz, av. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['ébéniste,Prélaz-les-Tourelles']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Widmer Hunziker Samuel, ébéniste,Prélaz-les-Tourelles.",
+            "sheet": "Prélaz",
+            "year": 1923
+          }
+        ],
+        "merged_count": 17
       }
     },
     {
@@ -101,18 +360,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.525775,
+          6.615858
         ]
       },
       "properties": {
-        "address": "['La Violette, r. du Liseron']",
-        "Nom": "La Violette",
-        "Métier": "['vitrier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Caccia-Bosso Charles, vitrier, La Violette, r. du Liseron.",
-        "sheet": "La Violette",
-        "year": 1923
+        "points": [
+          {
+            "address": "['Prélaz. SalleValentin 36']",
+            "Nom": "Prélaz",
+            "Métier": "['prof']",
+            "Classification": "élevé",
+            "LigneOriginal": "— Hylda, prof, piano, Prélaz. SalleValentin 36.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz. av. do Morges 147']",
+            "Nom": "Prélaz",
+            "Métier": "['employé trams']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Bovard-Coigny Jules, employé trams,Prélaz. av. do Morges 147.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz A, av. de Morges 147']",
+            "Nom": "Prélaz",
+            "Métier": "['cond. trams']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Caillet-Castella Percival, cond. trams,Prélaz A, av. de Morges 147.",
+            "sheet": "Prélaz",
+            "year": 1923
+          },
+          {
+            "address": "['Prélaz,av. de Morges 147']",
+            "Nom": "Prélaz",
+            "Métier": "['épicerie']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Gillléron Adrienne, épicerie, Prélaz,av. de Morges 147.",
+            "sheet": "Prélaz",
+            "year": 1923
+          }
+        ],
+        "merged_count": 4
       }
     },
     {
@@ -120,18 +411,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.524028,
+          6.617585
         ]
       },
       "properties": {
-        "address": "['La Violette, ch. Liseron']",
-        "Nom": "La Violette",
-        "Métier": "['chauff.au gaz']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Cevey-Vullierat Alfred-Julien, chauff.au gaz, La Violette, ch. Liseron.",
-        "sheet": "La Violette",
-        "year": 1923
+        "points": [
+          {
+            "address": "['Les Retraites 1,rue de Genève']",
+            "Nom": "Rue de Genève",
+            "Métier": "['blanchiss']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Marie, blanchiss.. Les Retraites 1,rue de Genève.",
+            "sheet": "Rue de Genève",
+            "year": 1923
+          },
+          {
+            "address": "['lesRetraites f>, rue de Genève']",
+            "Nom": "Rue de Genève",
+            "Métier": "['gypsier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Piacenza-Stoppini Carlo, gypsier, lesRetraites f>, rue de Genève.",
+            "sheet": "Rue de Genève",
+            "year": 1923
+          },
+          {
+            "address": "['Les Retraites 7,rue de Genève']",
+            "Nom": "Rue de Genève",
+            "Métier": "['ébén']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Roth Georges, ébén., Les Retraites 7,rue de Genève.",
+            "sheet": "Rue de Genève",
+            "year": 1923
+          },
+          {
+            "address": "['LesRetraites 3, rue de Genève']",
+            "Nom": "Rue de Genève",
+            "Métier": "['monteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Sordelll-Cantu Joseph, monteur, LesRetraites 3, rue de Genève.",
+            "sheet": "Rue de Genève",
+            "year": 1923
+          }
+        ],
+        "merged_count": 4
       }
     },
     {
@@ -139,18 +462,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.531798,
+          6.610647
         ]
       },
       "properties": {
-        "address": "['La Violette, r. du Liseron']",
-        "Nom": "La Violette",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "— Léa, La Violette, r. du Liseron.",
-        "sheet": "La Violette",
-        "year": 1923
+        "points": [
+          {
+            "address": "[',Campagne Valency']",
+            "Nom": "Valency",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Cuénoud-Cliristeler Emile, jardinier,Campagne Valency.",
+            "sheet": "Valency",
+            "year": 1923
+          },
+          {
+            "address": "['Camp. Valency, Montétan']",
+            "Nom": "Valency",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "de Charrière de Sévery-de Luze William, Camp. Valency, Montétan.T9817.",
+            "sheet": "Valency",
+            "year": 1923
+          },
+          {
+            "address": "['Petite fermede Valency']",
+            "Nom": "Valency",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Durussel-Mædcr Marie, Petite fermede Valency.",
+            "sheet": "Valency",
+            "year": 1923
+          }
+        ],
+        "merged_count": 3
       }
     },
     {
@@ -158,664 +504,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.52364,
+          6.621835
         ]
       },
       "properties": {
-        "address": "['La Violette, r. du Liseron']",
-        "Nom": "La Violette",
-        "Métier": "['ménag']",
-        "Classification": "inactif",
-        "LigneOriginal": "Dufey-Pasteur Anna, ménag.. La Violette, r. du Liseron.",
-        "sheet": "La Violette",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['compt.,La Violette, Pontaise']",
-        "Nom": "La Violette",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Hagmann-Biitikofcr Alfred, compt.,La Violette, Pontaise.",
-        "sheet": "La Violette",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Chalet-à-Gobet.']",
-        "Nom": "La Violette",
-        "Métier": "['gouv']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "— Marie, gouv., La Violette, Chalet-à-Gobet.",
-        "sheet": "La Violette",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette. av. Druey']",
-        "Nom": "La Violette",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Peytrcquin-Hagmann Marius, La Violette. av. Druey. T9409.",
-        "sheet": "La Violette",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Ouchy']",
-        "Nom": "La Violette",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Vuillerat Louis, La Violette, Ouchy.",
-        "sheet": "La Violette",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "[', laViolette, r. du Liseron']",
-        "Nom": "La Violette",
-        "Métier": "['batelier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Vulllerat-Chamot Charles, batelier, laViolette, r. du Liseron.",
-        "sheet": "La Violette",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['PetitPrélaz, ch. de Renens']",
-        "Nom": "Prélaz",
-        "Métier": "['cultivateur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— J aques-Frédéric, cultivateur, PetitPrélaz, ch. de Renens. T9849.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.615858,
-          46.525775
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz. SalleValentin 36']",
-        "Nom": "Prélaz",
-        "Métier": "['prof']",
-        "Classification": "élevé",
-        "LigneOriginal": "— Hylda, prof, piano, Prélaz. SalleValentin 36.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz-les-Tourel-les, av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['archit']",
-        "Classification": "élevé",
-        "LigneOriginal": "— Arnold, archit., Prélaz-les-Tourel-les, av. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz-les-Tourelles,av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['étud']",
-        "Classification": "inactif",
-        "LigneOriginal": "— Paul, étud., Prélaz-les-Tourelles,av. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['let Arnold', 'journaliste,Prélaz-les-Tourelles, av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Bonard-Chai! let Arnold, journaliste,Prélaz-les-Tourelles, av. de Morges. TS710.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.615858,
-          46.525775
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz. av. do Morges 147']",
-        "Nom": "Prélaz",
-        "Métier": "['employé trams']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Bovard-Coigny Jules, employé trams,Prélaz. av. do Morges 147.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.615858,
-          46.525775
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz A, av. de Morges 147']",
-        "Nom": "Prélaz",
-        "Métier": "['cond. trams']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Caillet-Castella Percival, cond. trams,Prélaz A, av. de Morges 147.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['PetitPrélaz. ch. de Reneus']",
-        "Nom": "Prélaz",
-        "Métier": "['négoc']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Déglon-Barraud Louisa, négoc., PetitPrélaz. ch. de Reneus.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz-les-Tourelles, av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['empi']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Favre-Haas Robert, empi., Prélaz-les-Tourelles, av. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz Nouveau, av. do Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['étud']",
-        "Classification": "inactif",
-        "LigneOriginal": "Frassou Armando, étud., Prélaz Nouveau, av. do Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.615858,
-          46.525775
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz,av. de Morges 147']",
-        "Nom": "Prélaz",
-        "Métier": "['épicerie']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Gillléron Adrienne, épicerie, Prélaz,av. de Morges 147.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz-Nouveau,av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['inst']",
-        "Classification": "élevé",
-        "LigneOriginal": "Gndit Valérie, inst., Prélaz-Nouveau,av. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz, av. Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['mécan']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "— Paul, mécan., Prélaz, av. Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz, av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['piqueur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Imhof-Tritten Jules, piqueur T.L., Prélaz, av. de Morges. T9816.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['électr.,Usine-dc Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Matti-Crottaz Henri-Charlcs, électr.,Usine-dc Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz-Nouveau, av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['ing']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Mury-Reymond Oscar, ing., Prélaz-Nouveau, av. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit Prélaz, av. île Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['empi, au gaz']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Pavillard-Cavin Ilonri, empi, au gaz,Petit Prélaz, av. île Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz Nouveau, av. Morges']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "— Olive, Prélaz Nouveau, av. Morges",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz Nouveau, av.de Merges']",
-        "Nom": "Prélaz",
-        "Métier": "['artiste dramat']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Rosselet-Bersot Julee-Bemard, artiste dramat., Prélaz Nouveau, av.de Merges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['v. Pré-laz, av. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['pension']",
-        "Classification": "inactif",
-        "LigneOriginal": "Stiffer-Hänig Emmy, pension, v. Pré-laz, av. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['ébéniste,Prélaz-les-Tourelles']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Widmer Hunziker Samuel, ébéniste,Prélaz-les-Tourelles.",
-        "sheet": "Prélaz",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.617585,
-          46.524028
-        ]
-      },
-      "properties": {
-        "address": "['Les Retraites 1,rue de Genève']",
-        "Nom": "Rue de Genève",
-        "Métier": "['blanchiss']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Marie, blanchiss.. Les Retraites 1,rue de Genève.",
-        "sheet": "Rue de Genève",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.617585,
-          46.524028
-        ]
-      },
-      "properties": {
-        "address": "['lesRetraites f>, rue de Genève']",
-        "Nom": "Rue de Genève",
-        "Métier": "['gypsier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Piacenza-Stoppini Carlo, gypsier, lesRetraites f>, rue de Genève.",
-        "sheet": "Rue de Genève",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.617585,
-          46.524028
-        ]
-      },
-      "properties": {
-        "address": "['Les Retraites 7,rue de Genève']",
-        "Nom": "Rue de Genève",
-        "Métier": "['ébén']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Roth Georges, ébén., Les Retraites 7,rue de Genève.",
-        "sheet": "Rue de Genève",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.617585,
-          46.524028
-        ]
-      },
-      "properties": {
-        "address": "['LesRetraites 3, rue de Genève']",
-        "Nom": "Rue de Genève",
-        "Métier": "['monteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Sordelll-Cantu Joseph, monteur, LesRetraites 3, rue de Genève.",
-        "sheet": "Rue de Genève",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "[',Campagne Valency']",
-        "Nom": "Valency",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Cuénoud-Cliristeler Emile, jardinier,Campagne Valency.",
-        "sheet": "Valency",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Camp. Valency, Montétan']",
-        "Nom": "Valency",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "de Charrière de Sévery-de Luze William, Camp. Valency, Montétan.T9817.",
-        "sheet": "Valency",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Petite fermede Valency']",
-        "Nom": "Valency",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Durussel-Mædcr Marie, Petite fermede Valency.",
-        "sheet": "Valency",
-        "year": 1923
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.621835,
-          46.52364
-        ]
-      },
-      "properties": {
-        "address": "[',chemin de Boston 11']",
-        "Nom": "chemin de Boston",
-        "Métier": "['empi']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Cherpit-Grobéty Louis, empi, télégr.,chemin de Boston 11. T. 3175.",
-        "sheet": "chemin de Boston",
-        "year": 1923
+        "points": [
+          {
+            "address": "[',chemin de Boston 11']",
+            "Nom": "chemin de Boston",
+            "Métier": "['empi']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Cherpit-Grobéty Louis, empi, télégr.,chemin de Boston 11. T. 3175.",
+            "sheet": "chemin de Boston",
+            "year": 1923
+          }
+        ],
+        "merged_count": 1
       }
     }
   ]

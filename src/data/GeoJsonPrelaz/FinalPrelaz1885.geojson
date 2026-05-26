@@ -6,18 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.53069,
+          6.625473
         ]
       },
       "properties": {
-        "address": "['la Violette,Sebeillon']",
-        "Nom": "La Violette",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Samuel-Joseph, agriculteur, la Violette,Sebeillon.",
-        "sheet": "La Violette",
-        "year": 1885
+        "points": [
+          {
+            "address": "['la Violette,Sebeillon']",
+            "Nom": "La Violette",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Samuel-Joseph, agriculteur, la Violette,Sebeillon.",
+            "sheet": "La Violette",
+            "year": 1885
+          },
+          {
+            "address": "['la Violette,Sebeillon']",
+            "Nom": "La Violette",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Albert, fils, agriculteur, la Violette,Sebeillon.",
+            "sheet": "La Violette",
+            "year": 1885
+          },
+          {
+            "address": "['rueHaldimaïul, 12', 'à la Violette, Sebeillon']",
+            "Nom": "La Violette",
+            "Métier": "['bottier-cordonnier']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "— Paul, bottier-cordonnier (magasin), rueHaldimaïul, 12. (Domicile, à la Violette, Sebeillon.)",
+            "sheet": "La Violette",
+            "year": 1885
+          }
+        ],
+        "merged_count": 3
       }
     },
     {
@@ -25,18 +48,113 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.526388,
+          6.612685
         ]
       },
       "properties": {
-        "address": "['la Violette,Sebeillon']",
-        "Nom": "La Violette",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Albert, fils, agriculteur, la Violette,Sebeillon.",
-        "sheet": "La Violette",
-        "year": 1885
+        "points": [
+          {
+            "address": "['Prélaz.']",
+            "Nom": "Prélaz",
+            "Métier": "['domestique']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Louis, domestique, Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['rentier']",
+            "Classification": "inactif",
+            "LigneOriginal": "Delahaye, Gustave, rentier, Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['villaPrélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['rentier']",
+            "Classification": "inactif",
+            "LigneOriginal": "De Skrebitzky, Alexandre, rentier, villaPrélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['vigneron']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Marc-Etienne, vigneron, Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Prélaz.']",
+            "Nom": "Prélaz",
+            "Métier": "['agricult']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Jean-Samuel-Louis, agricult., Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Edouard fils, agriculteur, Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['villa Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Emmanuel, jardinier, villa Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['en Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Henny-Duport, Louis-David, agriculteur,en Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Petit Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['journalière']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Julie, journalière, Petit Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['lingère']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Marie, lingère, Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          },
+          {
+            "address": "['Petit-Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['.journalier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Elie, .journalier, Petit-Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1885
+          }
+        ],
+        "merged_count": 11
       }
     },
     {
@@ -44,322 +162,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.625473,
-          46.53069
+          46.531798,
+          6.610647
         ]
       },
       "properties": {
-        "address": "['rueHaldimaïul, 12', 'à la Violette, Sebeillon']",
-        "Nom": "La Violette",
-        "Métier": "['bottier-cordonnier']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "— Paul, bottier-cordonnier (magasin), rueHaldimaïul, 12. (Domicile, à la Violette, Sebeillon.)",
-        "sheet": "La Violette",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz.']",
-        "Nom": "Prélaz",
-        "Métier": "['domestique']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Louis, domestique, Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['rentier']",
-        "Classification": "inactif",
-        "LigneOriginal": "Delahaye, Gustave, rentier, Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['villaPrélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['rentier']",
-        "Classification": "inactif",
-        "LigneOriginal": "De Skrebitzky, Alexandre, rentier, villaPrélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['vigneron']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Marc-Etienne, vigneron, Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz.']",
-        "Nom": "Prélaz",
-        "Métier": "['agricult']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Jean-Samuel-Louis, agricult., Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Edouard fils, agriculteur, Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['villa Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Emmanuel, jardinier, villa Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['en Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Henny-Duport, Louis-David, agriculteur,en Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['journalière']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Julie, journalière, Petit Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['lingère']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Marie, lingère, Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit-Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['.journalier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Elie, .journalier, Petit-Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Valency']",
-        "Nom": "Valency",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Bill, Jean, jardinier, Valency.",
-        "sheet": "Valency",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Valency']",
-        "Nom": "Valency",
-        "Métier": "['rentière']",
-        "Classification": "inactif",
-        "LigneOriginal": "De Sévery-Grand, rentière, Valency.",
-        "sheet": "Valency",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Valency']",
-        "Nom": "Valency",
-        "Métier": "['rentière']",
-        "Classification": "inactif",
-        "LigneOriginal": "De Sévery, Marie, rentière, Valency.",
-        "sheet": "Valency",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Valency']",
-        "Nom": "Valency",
-        "Métier": "['fermier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Rochat-Kuffer, Rod., fermier, Valency.",
-        "sheet": "Valency",
-        "year": 1885
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['Valency']",
-        "Nom": "Valency",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Henri, agriculteur, Valency.",
-        "sheet": "Valency",
-        "year": 1885
+        "points": [
+          {
+            "address": "['Valency']",
+            "Nom": "Valency",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Bill, Jean, jardinier, Valency.",
+            "sheet": "Valency",
+            "year": 1885
+          },
+          {
+            "address": "['Valency']",
+            "Nom": "Valency",
+            "Métier": "['rentière']",
+            "Classification": "inactif",
+            "LigneOriginal": "De Sévery-Grand, rentière, Valency.",
+            "sheet": "Valency",
+            "year": 1885
+          },
+          {
+            "address": "['Valency']",
+            "Nom": "Valency",
+            "Métier": "['rentière']",
+            "Classification": "inactif",
+            "LigneOriginal": "De Sévery, Marie, rentière, Valency.",
+            "sheet": "Valency",
+            "year": 1885
+          },
+          {
+            "address": "['Valency']",
+            "Nom": "Valency",
+            "Métier": "['fermier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Rochat-Kuffer, Rod., fermier, Valency.",
+            "sheet": "Valency",
+            "year": 1885
+          },
+          {
+            "address": "['Valency']",
+            "Nom": "Valency",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Henri, agriculteur, Valency.",
+            "sheet": "Valency",
+            "year": 1885
+          }
+        ],
+        "merged_count": 5
       }
     }
   ]

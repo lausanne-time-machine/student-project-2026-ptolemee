@@ -6,1291 +6,701 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Henri, jardinier, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "[',chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['cuisinière', \"l'Anémone\"]",
-        "Classification": "proletaire",
-        "LigneOriginal": "Brand, Elise, cuisinière, l'Anémone,chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['ClosGirardo, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Cottier-Félix , Victor , jardinier, ClosGirardo, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['Boston, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['ingénieur']",
-        "Classification": "élevé",
-        "LigneOriginal": "Cuénod-Roy, Gustave, ingénieur, Boston, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['v. Clémence, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Feller-Joost, Louis-Aùguste-Jacob, rentier, v. Clémence, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['villa Clémence,chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Kesseler, Anna, domest., villa Clémence,chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['Clos Violette, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['domestique,']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Paul, domestique, Clos Violette, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['ChêneVert, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['ménagère']",
-        "Classification": "inactif",
-        "LigneOriginal": "Martin-Mange, Fanny, ménagère,ChêneVert, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['La Châtelaine, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Meylan-Papaux, journalier, La Châtelaine, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['Perce-Neige, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['marchand de vins']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Armand, marchand de vins, Perce-Neige, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['Les Roches,chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Rivier-Schlœsing, Agé li ne, Les Roches,chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "[\"L'Anémone, chemin de Malley\"]",
-        "Nom": "Chemin de Malley",
-        "Métier": "['couturière']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Alhertine-lleririette, couturière, L'Anémone, chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['L’Anémone,chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['femme de chambre']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Marie, femme de chambre, L’Anémone,chemin de Malley.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607716,
-          46.523355
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz, chemin de Malley']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['la ManufactureLausannoise de biscuits']",
-        "Classification": "???",
-        "LigneOriginal": "Vallotton, Société an. de la ManufactureLausannoise de biscuits, Prélaz, chemin de Malley. T. 1236.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607852,
-          46.524111
-        ]
-      },
-      "properties": {
-        "address": "['L’Escalade, chemin de Malley', 'AtelierTerreaux, 20']",
-        "Nom": "Chemin de Malley",
-        "Métier": "['menuisier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Viret - Amiguet, Adolphe, menuisier,L’Escalade, chemin de Malley. AtelierTerreaux, 20.",
-        "sheet": "Chemin de Malley",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['chemin de Renens, sous Choisy']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['ménagère']",
-        "Classification": "inactif",
-        "LigneOriginal": "Bardy, l.ouise-Emilie, ménagère, chemin de Renens, sous Choisy.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Villa Berthe,Chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['employé île banque']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Chatelanat - Æschlimann, Edouard ,employé île banque, Villa Berthe,Chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Villa des Alpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['employé postal']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Charles, employé postal, Villa des Alpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa des Alpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['sculpteur']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "— Henri, sculpteur, villa des Alpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa des Alpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['employé postal']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Cloux-Cruchon, Henri, employé postal,villa des Alpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "[\"L'Abeille, chemin de Renens\"]",
-        "Nom": "Chemin de Renens",
-        "Métier": "['menuisier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Croci, Angelo, menuisier, L'Abeille, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['chalet .Mont-d’Or,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['charron']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "— Rodolphe, charron, chalet .Mont-d’Or,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa Berthe, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "— Rose, villa Berthe, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Choisi, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['maitresse de.pension']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Duflon-Ludot, Clémence, maitresse de.pension, Choisi, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "[\"Montd'Or, chemin de Renens\"]",
-        "Nom": "Chemin de Renens",
-        "Métier": "['laitier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Favre-Despont, Maurice, laitier, Montd'Or, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['f.cs Clochetons']",
-        "Classification": "proletaire",
-        "LigneOriginal": "de Goumoens, Sophie, f.cs Clochetons,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Abeille, 3,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Grisel - Brunner, V.-E.-G., L'Abeille, 3,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa des Alpes,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Harbof, Dima, étudiant, villa des Alpes,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['v.Mont-d’Or, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['représentant,']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Jaccaud-Ulmer, L.-A., représentant, v.Mont-d’Or, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['La Chaumine,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['régente']",
-        "Classification": "élevé",
-        "LigneOriginal": "Jaccottet, Emma, régente, La Chaumine,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['La Chaumine,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['institutrice,']",
-        "Classification": "élevé",
-        "LigneOriginal": "— Susanne, institutrice, La Chaumine,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['LaChaumine, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Jaccottet-Rochat, Susanne-Marie, LaChaumine, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa des Alpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['caissier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Jomini-Kiener, Jaques-Louis, caissier,villa des Alpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa des Alpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['serrurier']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Mariller, Alfred, serrurier, villa des Alpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villaMont d’Or, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Matthey-Cornetet, E.-E., commis, villaMont d’Or, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Clos Girarde, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['chauffeur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Meyer-Sandmeier, Eugène, chauffeur,Clos Girarde, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Les Clochetons, 10,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Pell-Cocke, Bennct, Les Clochetons, 10,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "[\"L'Abeille, I, chemin de Renens\"]",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Périer-Vodoz, J.-.I., dessinateur, L'Abeille, I, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['L’Abeille, 4,chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['typo']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Rappaz-Golaz, Aug., typo, L’Abeille, 4,chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa desAlpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Raskasova, Sophie-Micluelova, villa desAlpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['Valency, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Schaulin-Favre, Aug., jardinier, Valency, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['L’Abeille, 4. chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['parqueteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Schmid-Ingold , Ernest, parqueteur,L’Abeille, 4. chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.607888,
-          46.527558
-        ]
-      },
-      "properties": {
-        "address": "['villa des Alpes, chemin de Renens']",
-        "Nom": "Chemin de Renens",
-        "Métier": "['voyageur de commerce']",
-        "Classification": "",
-        "LigneOriginal": "Wyder, Henri, voyageur de commerce,villa des Alpes, chemin de Renens.",
-        "sheet": "Chemin de Renens",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Ouchy']",
-        "Nom": "La Violette",
-        "Métier": "['chauffeur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Anex-Schleicher, Edouard, chauffeur,La Violette, Ouchy.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Sébeillon']",
-        "Nom": "La Violette",
-        "Métier": "['serrurier']",
-        "Classification": "intermediaire",
-        "LigneOriginal": "Bally-Aguet, Jean, serrurier. La Violette, Sébeillon.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Ouchy']",
-        "Nom": "La Violette",
-        "Métier": "['manœuvre,']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Louis, manœuvre, La Violette, Ouchy.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, ch. deM alley']",
-        "Nom": "La Violette",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Henri-L., jardinier, La Violette, ch. deM alley.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Oucliv']",
-        "Nom": "La Violette",
-        "Métier": "['tailleur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Lugrin-Colliard, François-Joseph, tailleur, La Violette, Oucliv.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Ouchy']",
-        "Nom": "La Violette",
-        "Métier": "['chauffeur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Jean, chauffeur, La Violette, Ouchy.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Oucliy']",
-        "Nom": "La Violette",
-        "Métier": "['chauffeur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Niklès, Ferdinand, chauffeur, La Violette, Oucliy.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Ouchy']",
-        "Nom": "La Violette",
-        "Métier": "['jardinier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Visinand-Arnold, Ilenri-Louis, jardinier, La Violette, Ouchy.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.625473,
-          46.53069
-        ]
-      },
-      "properties": {
-        "address": "['La Violette, Ouchy']",
-        "Nom": "La Violette",
-        "Métier": "['batelier']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Vuillerat - Chamot, Charles, batelier,La Violette, Ouchy.",
-        "sheet": "La Violette",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit-Prélaz,route de Rcnens']",
-        "Nom": "Prélaz",
-        "Métier": "['ménagère']",
-        "Classification": "inactif",
-        "LigneOriginal": "— Rose-Olympe, ménagère, Petit-Prélaz,route de Rcnens.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz.']",
-        "Nom": "Prélaz",
-        "Métier": "['hoirs de M.-F.', 'huis de chauffage']",
-        "Classification": "???",
-        "LigneOriginal": "Barraud, hoirs de M.-F., huis de chauffage, en Prélaz. T. 1649.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['villa Prélaz, ro. de M orges']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Benz-Rostan, Louis-Samuel, jardinier,villa Prélaz, ro. de M orges.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit-Prélaz, eli. de Retiens']",
-        "Nom": "Prélaz",
-        "Métier": "['négociante']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Déglon - Barraud, Louisa, négociante,Petit-Prélaz, eli. de Retiens.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['enPrélaz, Sébeillon']",
-        "Nom": "Prélaz",
-        "Métier": "['vigneron']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Delessert-Trolliet, Léon, vigneron, enPrélaz, Sébeillon.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['En Prélaz,route de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Fleury, Edouard, agriculteur, En Prélaz,route de Morges.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['En Prélaz, ro. de Morges']",
-        "Nom": "Prélaz",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Fleury-Regamey, Louise, agriculteur,En Prélaz, ro. de Morges.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit Pré-laz, ch. de Renens']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "Inversin, Ch.-L.-H., campagne Petit Pré-laz, ch. de Renens.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Prélaz, Sébeillon']",
-        "Nom": "Prélaz",
-        "Métier": "['vigneron']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Jaquenoud-Gysler , Henri, vigneron,Prélaz, Sébeillon.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "[',en Prélaz']",
-        "Nom": "Prélaz",
-        "Métier": "['vigneron', 'm. Floury']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Léderrey, Albert, vigneron, m. Floury,en Prélaz.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['villa Prélaz, route deMorges']",
-        "Nom": "Prélaz",
-        "Métier": "['cuisinière']",
-        "Classification": "proletaire",
-        "LigneOriginal": "— Frida, cuisinière, villa Prélaz, route deMorges.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['v. Prélaz,ro. de Merges']",
-        "Nom": "Prélaz",
-        "Métier": "['médecin']",
-        "Classification": "élevé",
-        "LigneOriginal": "de Skrebitzky, Alex., médecin,v. Prélaz,ro. de Merges.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.612685,
-          46.526388
-        ]
-      },
-      "properties": {
-        "address": "['Petit-Prélaz,ro. de Merges']",
-        "Nom": "Prélaz",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "— Jean-Joseph, charretier, Petit-Prélaz,ro. de Merges.",
-        "sheet": "Prélaz",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['campagne Valency']",
-        "Nom": "Valency",
-        "Métier": "[]",
-        "Classification": "",
-        "LigneOriginal": "de Charrière de Sévery-de Luze,William, campagne Valency.",
-        "sheet": "Valency",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['ferme de Valency']",
-        "Nom": "Valency",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Henny-Belet, William, agriculteur, ferme de Valency.",
-        "sheet": "Valency",
-        "year": 1901
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.610647,
-          46.531798
-        ]
-      },
-      "properties": {
-        "address": "['ferme de Valency, chemin de Retiens']",
-        "Nom": "Valency",
-        "Métier": "['agriculteur']",
-        "Classification": "proletaire",
-        "LigneOriginal": "Henny-Henny, Hippolyte, agriculteur,ferme de Valency, chemin de Retiens.",
-        "sheet": "Valency",
-        "year": 1901
+          46.523355,
+          6.607716
+        ]
+      },
+      "properties": {
+        "points": [
+          {
+            "address": "['chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Henri, jardinier, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "[',chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['cuisinière', \"l'Anémone\"]",
+            "Classification": "proletaire",
+            "LigneOriginal": "Brand, Elise, cuisinière, l'Anémone,chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['ClosGirardo, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Cottier-Félix , Victor , jardinier, ClosGirardo, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['Boston, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['ingénieur']",
+            "Classification": "élevé",
+            "LigneOriginal": "Cuénod-Roy, Gustave, ingénieur, Boston, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['v. Clémence, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Feller-Joost, Louis-Aùguste-Jacob, rentier, v. Clémence, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['villa Clémence,chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Kesseler, Anna, domest., villa Clémence,chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['Clos Violette, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['domestique,']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Paul, domestique, Clos Violette, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['ChêneVert, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['ménagère']",
+            "Classification": "inactif",
+            "LigneOriginal": "Martin-Mange, Fanny, ménagère,ChêneVert, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['La Châtelaine, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Meylan-Papaux, journalier, La Châtelaine, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['Perce-Neige, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['marchand de vins']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Armand, marchand de vins, Perce-Neige, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['Les Roches,chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Rivier-Schlœsing, Agé li ne, Les Roches,chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "[\"L'Anémone, chemin de Malley\"]",
+            "Nom": "Chemin de Malley",
+            "Métier": "['couturière']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Alhertine-lleririette, couturière, L'Anémone, chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['L’Anémone,chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['femme de chambre']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Marie, femme de chambre, L’Anémone,chemin de Malley.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          },
+          {
+            "address": "['Prélaz, chemin de Malley']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['la ManufactureLausannoise de biscuits']",
+            "Classification": "???",
+            "LigneOriginal": "Vallotton, Société an. de la ManufactureLausannoise de biscuits, Prélaz, chemin de Malley. T. 1236.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          }
+        ],
+        "merged_count": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.524111,
+          6.607852
+        ]
+      },
+      "properties": {
+        "points": [
+          {
+            "address": "['L’Escalade, chemin de Malley', 'AtelierTerreaux, 20']",
+            "Nom": "Chemin de Malley",
+            "Métier": "['menuisier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Viret - Amiguet, Adolphe, menuisier,L’Escalade, chemin de Malley. AtelierTerreaux, 20.",
+            "sheet": "Chemin de Malley",
+            "year": 1901
+          }
+        ],
+        "merged_count": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.527558,
+          6.607888
+        ]
+      },
+      "properties": {
+        "points": [
+          {
+            "address": "['chemin de Renens, sous Choisy']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['ménagère']",
+            "Classification": "inactif",
+            "LigneOriginal": "Bardy, l.ouise-Emilie, ménagère, chemin de Renens, sous Choisy.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Villa Berthe,Chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['employé île banque']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Chatelanat - Æschlimann, Edouard ,employé île banque, Villa Berthe,Chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Villa des Alpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['employé postal']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Charles, employé postal, Villa des Alpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa des Alpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['sculpteur']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "— Henri, sculpteur, villa des Alpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa des Alpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['employé postal']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Cloux-Cruchon, Henri, employé postal,villa des Alpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "[\"L'Abeille, chemin de Renens\"]",
+            "Nom": "Chemin de Renens",
+            "Métier": "['menuisier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Croci, Angelo, menuisier, L'Abeille, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['chalet .Mont-d’Or,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['charron']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "— Rodolphe, charron, chalet .Mont-d’Or,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa Berthe, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "— Rose, villa Berthe, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Choisi, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['maitresse de.pension']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Duflon-Ludot, Clémence, maitresse de.pension, Choisi, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "[\"Montd'Or, chemin de Renens\"]",
+            "Nom": "Chemin de Renens",
+            "Métier": "['laitier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Favre-Despont, Maurice, laitier, Montd'Or, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['f.cs Clochetons']",
+            "Classification": "proletaire",
+            "LigneOriginal": "de Goumoens, Sophie, f.cs Clochetons,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Abeille, 3,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Grisel - Brunner, V.-E.-G., L'Abeille, 3,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa des Alpes,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Harbof, Dima, étudiant, villa des Alpes,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['v.Mont-d’Or, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['représentant,']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Jaccaud-Ulmer, L.-A., représentant, v.Mont-d’Or, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['La Chaumine,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['régente']",
+            "Classification": "élevé",
+            "LigneOriginal": "Jaccottet, Emma, régente, La Chaumine,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['La Chaumine,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['institutrice,']",
+            "Classification": "élevé",
+            "LigneOriginal": "— Susanne, institutrice, La Chaumine,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['LaChaumine, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Jaccottet-Rochat, Susanne-Marie, LaChaumine, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa des Alpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['caissier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Jomini-Kiener, Jaques-Louis, caissier,villa des Alpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa des Alpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['serrurier']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Mariller, Alfred, serrurier, villa des Alpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villaMont d’Or, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Matthey-Cornetet, E.-E., commis, villaMont d’Or, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Clos Girarde, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['chauffeur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Meyer-Sandmeier, Eugène, chauffeur,Clos Girarde, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Les Clochetons, 10,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Pell-Cocke, Bennct, Les Clochetons, 10,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "[\"L'Abeille, I, chemin de Renens\"]",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Périer-Vodoz, J.-.I., dessinateur, L'Abeille, I, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['L’Abeille, 4,chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['typo']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Rappaz-Golaz, Aug., typo, L’Abeille, 4,chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa desAlpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Raskasova, Sophie-Micluelova, villa desAlpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['Valency, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Schaulin-Favre, Aug., jardinier, Valency, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['L’Abeille, 4. chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['parqueteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Schmid-Ingold , Ernest, parqueteur,L’Abeille, 4. chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          },
+          {
+            "address": "['villa des Alpes, chemin de Renens']",
+            "Nom": "Chemin de Renens",
+            "Métier": "['voyageur de commerce']",
+            "Classification": "inactif",
+            "LigneOriginal": "Wyder, Henri, voyageur de commerce,villa des Alpes, chemin de Renens.",
+            "sheet": "Chemin de Renens",
+            "year": 1901
+          }
+        ],
+        "merged_count": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.53069,
+          6.625473
+        ]
+      },
+      "properties": {
+        "points": [
+          {
+            "address": "['La Violette, Ouchy']",
+            "Nom": "La Violette",
+            "Métier": "['chauffeur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Anex-Schleicher, Edouard, chauffeur,La Violette, Ouchy.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Sébeillon']",
+            "Nom": "La Violette",
+            "Métier": "['serrurier']",
+            "Classification": "intermediaire",
+            "LigneOriginal": "Bally-Aguet, Jean, serrurier. La Violette, Sébeillon.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Ouchy']",
+            "Nom": "La Violette",
+            "Métier": "['manœuvre,']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Louis, manœuvre, La Violette, Ouchy.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, ch. deM alley']",
+            "Nom": "La Violette",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Henri-L., jardinier, La Violette, ch. deM alley.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Oucliv']",
+            "Nom": "La Violette",
+            "Métier": "['tailleur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Lugrin-Colliard, François-Joseph, tailleur, La Violette, Oucliv.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Ouchy']",
+            "Nom": "La Violette",
+            "Métier": "['chauffeur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Jean, chauffeur, La Violette, Ouchy.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Oucliy']",
+            "Nom": "La Violette",
+            "Métier": "['chauffeur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Niklès, Ferdinand, chauffeur, La Violette, Oucliy.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Ouchy']",
+            "Nom": "La Violette",
+            "Métier": "['jardinier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Visinand-Arnold, Ilenri-Louis, jardinier, La Violette, Ouchy.",
+            "sheet": "La Violette",
+            "year": 1901
+          },
+          {
+            "address": "['La Violette, Ouchy']",
+            "Nom": "La Violette",
+            "Métier": "['batelier']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Vuillerat - Chamot, Charles, batelier,La Violette, Ouchy.",
+            "sheet": "La Violette",
+            "year": 1901
+          }
+        ],
+        "merged_count": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.526388,
+          6.612685
+        ]
+      },
+      "properties": {
+        "points": [
+          {
+            "address": "['Petit-Prélaz,route de Rcnens']",
+            "Nom": "Prélaz",
+            "Métier": "['ménagère']",
+            "Classification": "inactif",
+            "LigneOriginal": "— Rose-Olympe, ménagère, Petit-Prélaz,route de Rcnens.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['Prélaz.']",
+            "Nom": "Prélaz",
+            "Métier": "['hoirs de M.-F.', 'huis de chauffage']",
+            "Classification": "???",
+            "LigneOriginal": "Barraud, hoirs de M.-F., huis de chauffage, en Prélaz. T. 1649.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['villa Prélaz, ro. de M orges']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Benz-Rostan, Louis-Samuel, jardinier,villa Prélaz, ro. de M orges.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['Petit-Prélaz, eli. de Retiens']",
+            "Nom": "Prélaz",
+            "Métier": "['négociante']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Déglon - Barraud, Louisa, négociante,Petit-Prélaz, eli. de Retiens.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['enPrélaz, Sébeillon']",
+            "Nom": "Prélaz",
+            "Métier": "['vigneron']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Delessert-Trolliet, Léon, vigneron, enPrélaz, Sébeillon.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['En Prélaz,route de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Fleury, Edouard, agriculteur, En Prélaz,route de Morges.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['En Prélaz, ro. de Morges']",
+            "Nom": "Prélaz",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Fleury-Regamey, Louise, agriculteur,En Prélaz, ro. de Morges.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['Petit Pré-laz, ch. de Renens']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "Inversin, Ch.-L.-H., campagne Petit Pré-laz, ch. de Renens.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['Prélaz, Sébeillon']",
+            "Nom": "Prélaz",
+            "Métier": "['vigneron']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Jaquenoud-Gysler , Henri, vigneron,Prélaz, Sébeillon.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "[',en Prélaz']",
+            "Nom": "Prélaz",
+            "Métier": "['vigneron', 'm. Floury']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Léderrey, Albert, vigneron, m. Floury,en Prélaz.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['villa Prélaz, route deMorges']",
+            "Nom": "Prélaz",
+            "Métier": "['cuisinière']",
+            "Classification": "proletaire",
+            "LigneOriginal": "— Frida, cuisinière, villa Prélaz, route deMorges.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['v. Prélaz,ro. de Merges']",
+            "Nom": "Prélaz",
+            "Métier": "['médecin']",
+            "Classification": "élevé",
+            "LigneOriginal": "de Skrebitzky, Alex., médecin,v. Prélaz,ro. de Merges.",
+            "sheet": "Prélaz",
+            "year": 1901
+          },
+          {
+            "address": "['Petit-Prélaz,ro. de Merges']",
+            "Nom": "Prélaz",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "— Jean-Joseph, charretier, Petit-Prélaz,ro. de Merges.",
+            "sheet": "Prélaz",
+            "year": 1901
+          }
+        ],
+        "merged_count": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.531798,
+          6.610647
+        ]
+      },
+      "properties": {
+        "points": [
+          {
+            "address": "['campagne Valency']",
+            "Nom": "Valency",
+            "Métier": "[]",
+            "Classification": "???",
+            "LigneOriginal": "de Charrière de Sévery-de Luze,William, campagne Valency.",
+            "sheet": "Valency",
+            "year": 1901
+          },
+          {
+            "address": "['ferme de Valency']",
+            "Nom": "Valency",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Henny-Belet, William, agriculteur, ferme de Valency.",
+            "sheet": "Valency",
+            "year": 1901
+          },
+          {
+            "address": "['ferme de Valency, chemin de Retiens']",
+            "Nom": "Valency",
+            "Métier": "['agriculteur']",
+            "Classification": "proletaire",
+            "LigneOriginal": "Henny-Henny, Hippolyte, agriculteur,ferme de Valency, chemin de Retiens.",
+            "sheet": "Valency",
+            "year": 1901
+          }
+        ],
+        "merged_count": 3
       }
     }
   ]
