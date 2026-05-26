@@ -1,5 +1,7 @@
 ## Iconographie
 
+La source de l'iconographie de Lausanne est le Musée historique de Lausanne. La carte montre les images géolocalisées dans les quartiers de Prélaz et la Pontaise 
+
 ```js
 const container = display(document.createElement("div"));
 container.style = "height: 700px; margin: 0.5rem 0; border: 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); overflow: hidden;";
