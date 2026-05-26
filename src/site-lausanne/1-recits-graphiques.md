@@ -167,6 +167,138 @@ background: none;
 box-shadow: none;
 }
 }
+/* FRISE CHRONOLOGIQUE /*
+
+/* Style de la frise chronologique */
+.timeline-scroll-container {
+width: 100%;
+overflow-x: auto;
+white-space: nowrap;
+margin: 40px 0;
+padding: 20px 0;
+background: #f8f9fa;
+border: 1px solid #e1e4e8;
+border-radius: 8px;
+scroll-behavior: smooth;
+}
+/* Personnalisation de la barre de défilement */
+.timeline-scroll-container::-webkit-scrollbar {
+height: 8px;
+}
+.timeline-scroll-container::-webkit-scrollbar-track {
+background: #f1f1f1;
+border-radius: 4px;
+}
+.timeline-scroll-container::-webkit-scrollbar-thumb {
+background: #ccc;
+border-radius: 4px;
+}
+.timeline-scroll-container::-webkit-scrollbar-thumb:hover {
+background: #999;
+}
+/* Légende de navigation */
+.timeline-help-text {
+font-size: 0.9em;
+color: #666;
+text-align: center;
+margin-bottom: 10px;
+font-style: italic;
+}
+/* Conteneur de la frise */
+.timeline-track {
+display: inline-flex;
+position: relative;
+padding: 20px 0;
+min-width: 100%;
+}
+/* Ligne centrale de la frise */
+.timeline-track::before {
+content: "";
+position: absolute;
+top: 50%;
+left: 0;
+right: 0;
+height: 4px;
+background: #cbd5e0;
+transform: translateY(-50%);
+z-index: 1;
+}
+/* Colonne temporelle structurée en grille fixe pour un alignement parfait */
+.timeline-column {
+display: inline-grid;
+grid-template-rows: 220px 60px 220px;
+align-items: center;
+justify-items: center;
+width: 320px;
+flex-shrink: 0;
+position: relative;
+white-space: normal;
+}
+/* Carte événement */
+.timeline-card {
+width: 280px;
+background: #ffffff;
+border: 1px solid #e2e8f0;
+border-radius: 6px;
+padding: 14px;
+box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+transition: transform 0.2s ease, box-shadow 0.2s ease;
+z-index: 2;
+}
+.timeline-card:hover {
+transform: translateY(-3px);
+box-shadow: 0 6px 12px rgba(0,0,0,0.05);
+}
+/* Alignement des cartes du haut vers le bas de leur cellule */
+.timeline-card-top {
+align-self: end;
+margin-bottom: 10px;
+border-top: 4px solid #3182bd; /* Bleu */
+text-align: justify;
+}
+/* Alignement des cartes du bas vers le haut de leur cellule */
+.timeline-card-bottom {
+align-self: start;
+margin-top: 10px;
+border-bottom: 4px solid #31a354; /* Vert */
+text-align: justify;
+}
+/* Indicateur d'absence d'événement */
+.timeline-empty-card {
+height: 1px;
+width: 280px;
+visibility: hidden;
+}
+/* Nœud central (Date au format pilule pour éviter les retours à la ligne) */
+.timeline-node {
+background: #2d3748;
+color: #ffffff;
+border-radius: 20px;
+padding: 6px 16px;
+font-weight: bold;
+font-size: 0.85em;
+z-index: 3;
+box-shadow: 0 0 0 6px #ffffff, 0 4px 10px rgba(0,0,0,0.1);
+display: inline-flex;
+align-items: center;
+justify-content: center;
+white-space: nowrap;
+height: 32px;
+}
+/* Contenu textuel interne des cartes */
+.timeline-card h4 {
+font-size: 0.95em;
+margin: 0 0 8px 0;
+font-weight: bold;
+color: #1a202c;
+}
+.timeline-card p {
+font-size: 0.85em;
+margin: 0;
+line-height: 1.4;
+color: #4a5568;
+}
+
 </style>
 
 <div class="obs-container" lang="fr">
@@ -327,138 +459,6 @@ box-shadow: none;
 </div>
 </div>
 
-<style>
-/* Style de la zone de défilement de la frise */
-.timeline-scroll-container {
-width: 100%;
-overflow-x: auto;
-white-space: nowrap;
-margin: 40px 0;
-padding: 20px 0;
-background: #f8f9fa;
-border: 1px solid #e1e4e8;
-border-radius: 8px;
-scroll-behavior: smooth;
-}
-/* Personnalisation de la barre de défilement */
-.timeline-scroll-container::-webkit-scrollbar {
-height: 8px;
-}
-.timeline-scroll-container::-webkit-scrollbar-track {
-background: #f1f1f1;
-border-radius: 4px;
-}
-.timeline-scroll-container::-webkit-scrollbar-thumb {
-background: #ccc;
-border-radius: 4px;
-}
-.timeline-scroll-container::-webkit-scrollbar-thumb:hover {
-background: #999;
-}
-/* Légende de navigation */
-.timeline-help-text {
-font-size: 0.9em;
-color: #666;
-text-align: center;
-margin-bottom: 10px;
-font-style: italic;
-}
-/* Conteneur de la frise */
-.timeline-track {
-display: inline-flex;
-position: relative;
-padding: 20px 0;
-min-width: 100%;
-}
-/* Ligne centrale de la frise */
-.timeline-track::before {
-content: "";
-position: absolute;
-top: 50%;
-left: 0;
-right: 0;
-height: 4px;
-background: #cbd5e0;
-transform: translateY(-50%);
-z-index: 1;
-}
-/* Colonne temporelle structurée en grille fixe pour un alignement parfait */
-.timeline-column {
-display: inline-grid;
-grid-template-rows: 220px 60px 220px;
-align-items: center;
-justify-items: center;
-width: 320px;
-flex-shrink: 0;
-position: relative;
-white-space: normal;
-}
-/* Carte événement */
-.timeline-card {
-width: 280px;
-background: #ffffff;
-border: 1px solid #e2e8f0;
-border-radius: 6px;
-padding: 14px;
-box-shadow: 0 4px 6px rgba(0,0,0,0.02);
-transition: transform 0.2s ease, box-shadow 0.2s ease;
-z-index: 2;
-}
-.timeline-card:hover {
-transform: translateY(-3px);
-box-shadow: 0 6px 12px rgba(0,0,0,0.05);
-}
-/* Alignement des cartes du haut vers le bas de leur cellule */
-.timeline-card-top {
-align-self: end;
-margin-bottom: 10px;
-border-top: 4px solid #3182bd; /* Bleu */
-text-align: justify;
-}
-/* Alignement des cartes du bas vers le haut de leur cellule */
-.timeline-card-bottom {
-align-self: start;
-margin-top: 10px;
-border-bottom: 4px solid #31a354; /* Vert */
-text-align: justify;
-}
-/* Indicateur d'absence d'événement */
-.timeline-empty-card {
-height: 1px;
-width: 280px;
-visibility: hidden;
-}
-/* Nœud central (Date au format pilule pour éviter les retours à la ligne) */
-.timeline-node {
-background: #2d3748;
-color: #ffffff;
-border-radius: 20px;
-padding: 6px 16px;
-font-weight: bold;
-font-size: 0.85em;
-z-index: 3;
-box-shadow: 0 0 0 6px #ffffff, 0 4px 10px rgba(0,0,0,0.1);
-display: inline-flex;
-align-items: center;
-justify-content: center;
-white-space: nowrap;
-height: 32px;
-}
-/* Contenu textuel interne des cartes */
-.timeline-card h4 {
-font-size: 0.95em;
-margin: 0 0 8px 0;
-font-weight: bold;
-color: #1a202c;
-}
-.timeline-card p {
-font-size: 0.85em;
-margin: 0;
-line-height: 1.4;
-color: #4a5568;
-}
-</style>
-
 <div class="timeline-help-text">
 ← Glissez horizontalement pour faire défiler la ligne temporelle entre les deux quartiers (1870 - 1945) →
 </div>
@@ -535,7 +535,7 @@ color: #4a5568;
 <div class="timeline-column">
 <div class="timeline-card timeline-card-top">
 <h4>La Pontaise</h4>
-<p><strong>1905-1908 :</strong> Échauffourées militaires (1905) ; ouverture du café de tempérance sans alcool La Violette (1908).</p>
+<p><strong>1905-1908 :</strong> Échauffourées militaires (1905); ouverture du café de tempérance sans alcool La Violette (1908).</p>
 </div>
 <div class="timeline-node">1905-1908</div>
 <div class="timeline-card timeline-card-bottom">
@@ -591,7 +591,9 @@ color: #4a5568;
 </div>
 <div class="timeline-node">1929-1933</div>
 <div class="timeline-card timeline-card-bottom">
-<div class="timeline-empty-card"></div>
+<h4>Prélaz</h4>
+<p><strong>1930-1932 :</strong> Expropriation de terrains pour construire une route. Construction de logements et nombreux chemins privés rendus publics.</p>
+<p><strong>1932 :</strong> Inauguration du bâtiment scolaire (primaire) de Prélaz.</p>
 </div>
 </div>
 
