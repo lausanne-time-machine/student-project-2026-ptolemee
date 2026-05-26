@@ -1,5 +1,3 @@
-# Sources
-
 # Methodes
 
 ## Presse
