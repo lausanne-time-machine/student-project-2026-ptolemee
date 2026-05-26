@@ -7,7 +7,7 @@ import {svg} from "npm:htl";
 
 console.log("libraries imported");
 
-const years = [1871, 1890, 1900, 1903, 1910, 1912, 1925];
+const years = [1871, 1890, 1900, 1903, 1910, 1912, 1925, 1937];
 const places = ["Pontaise", "Prelaz"];
 let fill = d3.schemeCategory10;
 let [cHeight, cWidth] = [400, document.getElementById("pontaise-container").offsetWidth];
@@ -35,6 +35,8 @@ toponyms.get("Pontaise").set(1912, await FileAttachment("../data/TopoPontaise/To
 toponyms.get("Prelaz").set(1912, await FileAttachment("../data/TopoPrelaz/Topo1912.txt").csv());
 toponyms.get("Pontaise").set(1925, await FileAttachment("../data/TopoPontaise/Topo1925.txt").csv());
 toponyms.get("Prelaz").set(1925, await FileAttachment("../data/TopoPrelaz/Topo1925.txt").csv());
+toponyms.get("Pontaise").set(1937, await FileAttachment("../data/TopoPontaise/TopoModerne.txt").csv());
+toponyms.get("Prelaz").set(1937, await FileAttachment("../data/TopoPrelaz/TopoModerne.txt").csv());
 
 console.log("Toponyms obtained");
 ```
@@ -50,6 +52,7 @@ const lausanneLayers = [
   {label: "Lausanne Parcel Plan (1910)",             name: "lausanne-1910-payot", year: 1910 },
   {label: "Lausanne Official Plan (1913)",           name: "lausanne-1913-plan-officiel", year: 1913 },
   {label: "Lausanne Transports Map (1925)",          name: "lausanne-1925-transports", year: 1925 },
+  {label: "Lausanne Parcel Plan (1937)",             name: "lausanne-1937-cadastre", year: 1937},
 ];
 
 const mapYears = lausanneLayers.map(x => x.year);
@@ -81,6 +84,10 @@ function mapNameFromYear(year) {
     overflow: hidden;
     width: 100%;
   }
+
+  :root {
+    --input-width: 100% !important;
+  }
 </style>
 
 <div id="pontaise-container">
@@ -92,7 +99,7 @@ function mapNameFromYear(year) {
 </div>
 
 ```js
-const year = view(Inputs.range([1871, 1925], {label: "Année", step: 1, value: 1871}))
+const year = view(Inputs.range([1871, 1937], {label: "Année", step: 1, value: 1871}))
 ```
 
 ```js
