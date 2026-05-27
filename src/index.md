@@ -126,7 +126,7 @@ box-shadow: none;
 
 <p>Notre travail propose d'étudier la construction, l'identité et les limites des quartiers de Lausanne à travers deux cas d'étude contrastés : la Pontaise et Prélaz, sur une période charnière allant de 1870 à 1945.</p>
 
-<h2>Problématique de recherche</h2>
+<h2>Question de recherche</h2>
 
 <p>À travers cette analyse comparative, nous cherchons à répondre aux questions suivantes :</p>
 

@@ -8,34 +8,34 @@ export default {
   // lets you organize them into sections and have unlisted pages.
   pages: [
     {
-      name: "1 - Récits & Graphiques",
+      name: "1 - Récits & ligne temporelle",
       pages: [
-        { name: "Chronologie des Quartiers", path: "/site-lausanne/1-recits-graphiques" }
+        { name: "Chronologie des quartiers", path: "/site-lausanne/1-recits-graphiques" }
       ]
     },
     {
-      name: "2 - Images & Bâtiments",
+      name: "2 - Images & bâtiments",
       pages: [
-        { name: "Lausanne à Rebrousse-Temps",       path: "/site-lausanne/2-images-batiments" }
+        { name: "Lausanne à rebrousse-temps",       path: "/site-lausanne/2-images-batiments" }
       ]
     },
     {
-      name: "3 - Cartes & Toponymie",
+      name: "3 - Cartes & toponymie",
       pages: [
-        { name: "Des Cartes qui se Peuplent",       path: "/site-lausanne/3-cartes-toponymie" }
+        { name: "Des Cartes qui se peuplent",       path: "/site-lausanne/3-cartes-toponymie" }
       ]
     },
     {
-      name: "4 - Évolution du Bâti & Métiers",
+      name: "4 - Évolution du bâti & métiers",
       pages: [
-        { name: "Un Soldat, une Veuve et un Mécano",       path: "/site-lausanne/4-evolution-bati-metiers" }
+        { name: "Un Soldat, une veuve et un mécano",       path: "/site-lausanne/4-evolution-bati-metiers" }
       ]
     },
     {
       name: "À Propos",
       pages: [
-        { name: "Sources & Méthodologie",       path: "/site-lausanne/methodes-sources" },
-        { name: "Qui Sommes-Nous?",       path: "/site-lausanne/a-propos" }
+        { name: "Sources & méthodologie",       path: "/site-lausanne/methodes-sources" },
+        { name: "Qui sommes-nous?",       path: "/site-lausanne/a-propos" }
       ]
     },
     //{
