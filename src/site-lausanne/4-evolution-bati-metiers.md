@@ -1,12 +1,82 @@
-# Évolution du bâti et métiers
+<style>
+/* Justification et élargissement global des textes pour occuper toute la largeur */
+h1, h2, h3, h4, p, li, ul, ol {
+max-width: none !important;
+text-align: justify;
+text-justify: inter-word;
+-webkit-hyphens: auto;
+-ms-hyphens: auto;
+hyphens: auto;
+}
+/* Style global du conteneur */
+.obs-container {
+font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+color: #24292e;
+line-height: 1.6;
+max-width: 1012px;
+margin: 0 auto;
+padding: 10px;
+}
+.obs-container h1 {
+font-size: 2em;
+border-bottom: 1px solid #eaecef;
+padding-bottom: 0.3em;
+margin-top: 24px;
+margin-bottom: 16px;
+font-weight: 600;
+}
+.obs-container h2 {
+font-size: 1.5em;
+border-bottom: 1px solid #eaecef;
+padding-bottom: 0.3em;
+margin-top: 32px;
+margin-bottom: 16px;
+font-weight: 600;
+}
+.obs-container h3 {
+font-size: 1.25em;
+margin-top: 24px;
+margin-bottom: 12px;
+font-weight: 600;
+}
+.obs-container h4 {
+font-size: 1.1em;
+margin-top: 20px;
+margin-bottom: 8px;
+font-weight: 600;
+}
+.obs-container ul, .obs-container ol {
+padding-left: 20px;
+margin-bottom: 16px;
+}
+.obs-container li {
+margin-bottom: 8px;
+}
 
-## Vue d'ensemble de l'évolution du bâti
+.obs-container h1, 
+.obs-container h2, 
+.obs-container h3, 
+.obs-container h4,
+.timeline-card h4 {
+font-family: Georgia, Cambria, "Times New Roman", Times, serif !important;
+color: #1a1a1a !important;
+letter-spacing: -0.01em;
+}
 
-Cette carte interactive présente l'évolution des bâtiments dans deux secteurs de Lausanne, Pontaise et Prélaz. Elle affiche les constructions qui intersectent les limites de chaque secteur.
+</style>
+
+
+<div class="obs-container" lang="fr">
+
+<h1>Évolution du bâti et métiers</h1>
+
+<h2 id="Vue d'ensemble" tabindex="-1">Vue d'ensemble de l'évolution du bâti</h2>
+
+Cette carte interactive présente l'évolution des bâtiments dans deux secteurs de Lausanne, Pontaise et Prélaz.<br/> Elle affiche les constructions qui intersectent les limites de chaque secteur.
 
 ---
 
-## Carte Interactive 
+## Carte interactive 
 
 ```js
 const container = display(document.createElement("div"));
@@ -26,9 +96,9 @@ invalidation.then(() => {
 
 ## Notes sur les données
 
-- Tous les bâtiments sont représentés par leur emprise de 1945
-- L'évolution historique peut être suivie à partir des données disponibles
-- Les limites des secteurs correspondent aux divisions administratives officielles du secteur 1503 pour la pontaise et 301 et 304 pour la pontaise.
+- Tous les bâtiments sont représentés par leur emprise de 1945 ;
+- L'évolution historique peut être suivie à partir des données disponibles ;
+- Les limites des secteurs correspondent aux divisions administratives officielles du secteur 1503 pour la Pontaise et 301 et 304 pour Prélaz.
 
 
 ```js
@@ -48,14 +118,15 @@ const prelaz1951 = await FileAttachment("../data/GeoJsonPrelaz/FinalPrelaz1951.g
 
 ## Secteur de Pontaise
 
-**Localisation :** Partie centre-est du centre de Lausanne  
-**Importance historique :** Secteur résidentiel et commercial important  
+**Localisation :** Partie nord-ouest de Lausanne  
+**Importance historique :** Secteur résidentiel et institutionnel important  
 
-La carte permet d'observer la répartition des bâtiments et leurs transformations dans le secteur de Pontaise. Le contour coloré indique la zone étudiée.
+La carte permet d'observer la répartition des bâtiments et leurs transformations dans le secteur de Pontaise.<br/>
+Le contour coloré indique la zone étudiée.
 
 ---
 ```js
-const selectedYear = view(Inputs.radio([1885, 1901, 1923, 1951], { label: "Choose year", value: 1885 }))
+const selectedYear = view(Inputs.radio([1885, 1901, 1923, 1951], { label: "Choisissez l'année : ", value: 1885, format: d => d }))
 const style = document.createElement("style");
 style.textContent = `
 .leaflet-tooltip.circle-label {
@@ -99,7 +170,7 @@ detail.style = `
   overflow-y: auto;
   background: #fff;
 `;
-detail.textContent = "Clicker sur un point pour voir plus de détails";
+detail.textContent = "Cliquer sur un point pour voir plus de détails";
 
 // Map (right)
 const mapDiv = document.createElement("div");
@@ -177,11 +248,12 @@ invalidation.then(() => map.remove());
 **Localisation :** Partie ouest du centre de Lausanne  
 **Importance historique :** Secteur résidentiel en développement et à usages mixtes
 
-La carte permet d'observer la répartition des bâtiments et leurs transformations dans le secteur de Prélaz. Le contour coloré indique la zone étudiée.
+La carte permet d'observer la répartition des bâtiments et leurs transformations dans le secteur de Prélaz.<br/>
+Le contour coloré indique la zone étudiée.
 
 ---
 ```js
-const selectedYear2 = view(Inputs.radio([1885, 1901, 1923, 1951], { label: "Choose year", value: 1885 }))
+const selectedYear2 = view(Inputs.radio([1885, 1901, 1923, 1951], { label: "Choisissez l'année :", value: 1885, format: d => d }))
 ```
 ```js
 const container = display(document.createElement("div"));
@@ -202,7 +274,7 @@ detail.style = `
   overflow-y: auto;
   background: #fff;
 `;
-detail.textContent = "Clicker sur un point pour voir plus de détails";
+detail.textContent = "Cliquer sur un point pour voir plus de détails";
 
 // Map (right)
 const mapDiv = document.createElement("div");
@@ -272,7 +344,9 @@ invalidation.then(() => map.remove());
 
 ## Notes sur les données
 
-- Tous les bâtiments sont représentés par leur emprise actuelle
-- L'évolution historique peut être suivie à partir des données disponibles
-- Les limites des secteurs correspondent aux divisions administratives officielles
-- Les couleurs de la carte proviennent de l'HTML intégré dans cette page
+- Tous les bâtiments sont représentés par leur emprise actuelle ;
+- L'évolution historique peut être suivie à partir des données disponibles ;
+- Les limites des secteurs correspondent aux divisions administratives officielles ;
+- Les couleurs de la carte proviennent de l'HTML intégré dans cette page.
+
+</div>
