@@ -352,6 +352,14 @@ function prepareWords(words) {
 ```
 
 ```js
+const ignored_words = new Set(["le", "en", "la", "de", "des", "rue", "avenue", "à", "route", "chemin", "nouvelle", "morges", "genève", "du"]);
+
+function shouldBeCounted(word) {
+  return !ignored_words.has(word.toLowerCase());
+}
+```
+
+```js
 const current_words_pontaise = toponyms.get("Pontaise").get(nearestYear(years, year));
 ```
 
@@ -360,9 +368,9 @@ const current_words_prelaz = toponyms.get("Prelaz").get(nearestYear(years, year)
 ```
 
 ```js
-let split_words_pontaise = [].concat(...current_words_pontaise.map(x => x.place.split(" ")));
+let split_words_pontaise = [].concat(...current_words_pontaise.map(x => x.place.split(" "))).filter(shouldBeCounted);
 
-let split_words_prelaz = [].concat(...current_words_prelaz.map(x => x.place.split(" ")));
+let split_words_prelaz = [].concat(...current_words_prelaz.map(x => x.place.split(" "))).filter(shouldBeCounted);
 
 let preparedWordsPontaise = prepareWords(split_words_pontaise);
 let preparedWordsPrelaz = prepareWords(split_words_prelaz);
