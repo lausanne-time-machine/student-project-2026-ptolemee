@@ -132,8 +132,6 @@ Les catégories de classification des métiers étaient les suivantes :
 * **Commerce** : Les commerces (Fabric de biscuits, Carosserie, etc.).
 * **???** : Entrées dont la classification restait ambiguë ou non déterminée.
 
-Téléchargez le fichier CSV de classification :
-
 ```js
 const classificationsCsv = await FileAttachment("../data/classifications-metiers.csv").text()
 const classificationsBlob = new Blob([classificationsCsv], {type: "text/csv;charset=utf-8"})
