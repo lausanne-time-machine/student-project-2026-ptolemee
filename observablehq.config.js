@@ -22,13 +22,13 @@ export default {
     {
       name: "3 - Cartes & toponymie",
       pages: [
-        { name: "Des Cartes qui se peuplent",       path: "/site-lausanne/3-cartes-toponymie" }
+        { name: "Des cartes qui se peuplent",       path: "/site-lausanne/3-cartes-toponymie" }
       ]
     },
     {
       name: "4 - Évolution du bâti & métiers",
       pages: [
-        { name: "Un Soldat, une veuve et un mécano",       path: "/site-lausanne/4-evolution-bati-metiers" }
+        { name: "Un soldat, une veuve et un mécano",       path: "/site-lausanne/4-evolution-bati-metiers" }
       ]
     },
     {
