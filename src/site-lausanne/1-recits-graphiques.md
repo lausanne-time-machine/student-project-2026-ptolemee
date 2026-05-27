@@ -305,7 +305,7 @@ color: #4a5568;
 
 <h1>La Pontaise et Prélaz : <br/>Les hauts et les bas de Lausanne</h1>
 
-<h2>Résumé</h2>
+<h2 id="Résumé" tabindex="-1">Résumé</h2>
 <p>Situés respectivement sur le plateau nord et dans le fond de la vallée à l’ouest de Lausanne, les quartiers de la Pontaise et de Prélaz se sont chacun construits au gré des décisions politiques et industrielles, et témoignent de dynamiques de quartiers spécifiques et prononcées.</p>
 
 <div class="obs-grid">
@@ -329,7 +329,7 @@ color: #4a5568;
 </div>
 </div>
 
-<h2>L’évolution des quartiers</h2>
+<h2 id="L'évolution des quartiers" tabindex="-1">L’évolution des quartiers</h2>
 <p>Malgré leurs vocations différentes, les deux secteurs périphériques connaissent un développement similaire : morcellement des origines, l’émergence due à l’irruption de grandes infrastructures, période de tensions sociales et infrastructurelles, avant d’atteindre une phase de stabilisation.</p>
 
 <h3>Les origines</h3>
@@ -405,7 +405,7 @@ color: #4a5568;
 </div>
 </div>
 
-<h2>Être un quartier : <br/>Quelques mots sur la vie à la Pontaise et Prélaz</h2>
+<h2 id="Être un quartier" tabindex="-1">Être un quartier : <br/>Quelques mots sur la vie à la Pontaise et Prélaz</h2>
 <p>La sociabilité à la Pontaise et Prélaz se matérialise par différents lieux et caractéristiques. Les cafés, les associations, les rassemblements populaires et les lieux communs font vivre les différents quartiers en lui apportant vie et dynamisme.</p>
 
 <div class="obs-grid">
@@ -458,6 +458,8 @@ color: #4a5568;
 </div>
 </div>
 </div>
+
+<h2 id="Frise chronologique "tabindex="-1">Frise chronologique</h2>
 
 <div class="timeline-help-text">
 ← Glissez horizontalement pour faire défiler la ligne temporelle entre les deux quartiers (1870 - 1945) →
@@ -523,6 +525,7 @@ color: #4a5568;
 <div class="timeline-card timeline-card-top">
 <h4>La Pontaise</h4>
 <p><strong>1901 :</strong> Affaire Wassmer (interdiction des tenues de quartier) et décision de bâtir la prison du Bois-Mermet.</p>
+<p><strong>1904 :</strong> Ouverture du café de tempérance sans alcool La Violette.</p>
 </div>
 <div class="timeline-node">1901-1904</div>
 <div class="timeline-card timeline-card-bottom">
@@ -535,7 +538,8 @@ color: #4a5568;
 <div class="timeline-column">
 <div class="timeline-card timeline-card-top">
 <h4>La Pontaise</h4>
-<p><strong>1905-1908 :</strong> Échauffourées militaires (1905); ouverture du café de tempérance sans alcool La Violette (1908).</p>
+<p><strong>1905 :</strong> Échauffourées militaires.</p>
+<p><strong>1906 :</strong> Désaffectation du cimetière de la Pontaise.</p>
 </div>
 <div class="timeline-node">1905-1908</div>
 <div class="timeline-card timeline-card-bottom">
@@ -587,7 +591,8 @@ color: #4a5568;
 <div class="timeline-column">
 <div class="timeline-card timeline-card-top">
 <h4>La Pontaise</h4>
-<p><strong>1929-1933 :</strong> Match international Suisse-Tchécoslovaquie (20'000 personnes) ; meurtre crapuleux à la suite d'une querelle de voisinage (1933).</p>
+<p><strong>1929-1933 :</strong> Match international Suisse-Tchécoslovaquie (20'000 personnes).</p>
+<p><strong>1933 :</strong> Meurtre crapuleux à la suite d'une querelle de voisinage.</p>
 </div>
 <div class="timeline-node">1929-1933</div>
 <div class="timeline-card timeline-card-bottom">
