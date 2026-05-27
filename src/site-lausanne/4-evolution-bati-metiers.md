@@ -55,10 +55,7 @@ La carte permet d'observer la répartition des bâtiments et leurs transformatio
 
 ---
 ```js
-const selectedYear = view(Inputs.select([1885, 1901, 1923, 1951], {
-  label: "Choose year",
-  value: 1885
-}))
+const selectedYear = view(Inputs.radio([1885, 1901, 1923, 1951], { label: "Choose year", value: 1885 }))
 const style = document.createElement("style");
 style.textContent = `
 .leaflet-tooltip.circle-label {
@@ -102,7 +99,7 @@ detail.style = `
   overflow-y: auto;
   background: #fff;
 `;
-detail.textContent = "Click a point to see its attributes.";
+detail.textContent = "Clicker sur un point pour voir plus de détails";
 
 // Map (right)
 const mapDiv = document.createElement("div");
@@ -125,7 +122,7 @@ const yearToData1 = {
 }
 
 
-const selectedData1 = yearToData1[selectedYear]
+const selectedData1 = yearToData1[Number(selectedYear)]
 
 
 
@@ -158,7 +155,7 @@ L.geoJSON(selectedData1, {
         ${points
           .map(p => `
             <div style="margin-bottom:0.75rem;padding:0.5rem;border:1px solid #eee;border-radius:6px;">
-              <div><strong>address</strong>: ${p.address ?? "n/a"}</div>
+              <div><strong>Address</strong>: ${p.address ?? "n/a"}</div>
               <div><strong>Nom</strong>: ${p.Nom ?? "n/a"}</div>
               <div><strong>Métier</strong>: ${p.Métier ?? "n/a"}</div>
               <div><strong>Classification</strong>: ${p.Classification ?? "n/a"}</div>
@@ -184,10 +181,7 @@ La carte permet d'observer la répartition des bâtiments et leurs transformatio
 
 ---
 ```js
-const selectedYear2 = view(Inputs.select([1885, 1901, 1923, 1951], {
-  label: "Choose year",
-  value: 1885
-}))
+const selectedYear2 = view(Inputs.radio([1885, 1901, 1923, 1951], { label: "Choose year", value: 1885 }))
 ```
 ```js
 const container = display(document.createElement("div"));
@@ -208,7 +202,7 @@ detail.style = `
   overflow-y: auto;
   background: #fff;
 `;
-detail.textContent = "Click a point to see its attributes.";
+detail.textContent = "Clicker sur un point pour voir plus de détails";
 
 // Map (right)
 const mapDiv = document.createElement("div");
@@ -229,7 +223,7 @@ const yearToData2 = {
   1951: prelaz1951
 }
 
-const selectedData2 = yearToData2[selectedYear2]
+const selectedData2 = yearToData2[Number(selectedYear2)]
 
 const map = L.map(mapDiv).setView([46.527975, 6.628901], 14);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19 }).addTo(map);
@@ -259,7 +253,7 @@ L.geoJSON(selectedData2, {
         ${points
           .map(p => `
             <div style="margin-bottom:0.75rem;padding:0.5rem;border:1px solid #eee;border-radius:6px;">
-              <div><strong>address</strong>: ${p.address ?? "n/a"}</div>
+              <div><strong>Address</strong>: ${p.address ?? "n/a"}</div>
               <div><strong>Nom</strong>: ${p.Nom ?? "n/a"}</div>
               <div><strong>Métier</strong>: ${p.Métier ?? "n/a"}</div>
               <div><strong>Classification</strong>: ${p.Classification ?? "n/a"}</div>
