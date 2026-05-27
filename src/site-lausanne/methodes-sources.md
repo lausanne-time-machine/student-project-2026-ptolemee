@@ -120,6 +120,29 @@ Les Annuaires commerciaux, qui ont déjà été passés par OCR, offrent une vue
 
 Comme les erreurs d'OCR sont très communes, un calcul de similarité doit être fait. La distance de Levenshtein a été utilisée. Une fois les entrées réduites, l'addresse sansitisée est extraite en prennant le toponyme matché et le combine avec un numéro de la ligne d'addresse. De là, Nominatim peut prendre ces addresses et donner des coordonnées afin de géolocaliser l'entrée de l'Annuaire. 
 
+Pour la classification, la liste de tous les métiers des personnes contenus dans les quartiers était longue de plus 1000 valeurs et la première idée était de faire quelques exemples manuellement et expliciter la logique afin de la passer à une IA de prediction de texte. Malheurseuement, les résultats avaient trop d'erreurs, alors la classification a été faite manuellement. 
+
+Les catégories de classification des métiers étaient les suivantes :
+
+* **Rien** : Entrées sans profession identifiée.
+* **Inactif** : Personnes sans activité professionnelle déclarée (retraités, rentiers, etc.).
+* **Prolétaire** : Travailleurs manuels, ouvriers, artisans et journaliers.
+* **Intermédiaire** : Employés de bureau, commis, petits fonctionnaires et professions semi-qualifiées.
+* **Élevé** : Professionnels libéraux, ingénieurs, cadres et haute fonction publique.
+* **Commerce** : Les commerces (Fabric de biscuits, Carosserie, etc.).
+* **???** : Entrées dont la classification restait ambiguë ou non déterminée.
+
+Téléchargez le fichier CSV de classification :
+
+```js
+const classificationsCsv = await FileAttachment("../data/classifications-metiers.csv").text()
+const classificationsBlob = new Blob([classificationsCsv], {type: "text/csv;charset=utf-8"})
+const classificationsUrl = URL.createObjectURL(classificationsBlob)
+const downloadLink = html`<a href=${classificationsUrl} download="classifications-metiers.csv" style="padding: 0.5rem 0.75rem; display: inline-block; background: #0366d6; color: white; border-radius: 4px; text-decoration: none;">Télécharger le CSV de classification</a>`
+
+display(downloadLink)
+```
+
 <h2 id="Iconographie" tabindex="-1">Iconographie</h2>
 
 La source de l'iconographie de Lausanne est le Musée historique de Lausanne. Les images sont géolocalisées. Cela permet de filtrer les images dans les secteurs administratifs de la Pontaise et de Prélaz entre 1845 et 1951. Nous avons ajouté un buffer de 100 mètres pour inclure des endroits importants comme la caserne qui se situent juste en dehors du secteur. L’iconographie de tout Lausane peut se voir sur le site [icon-lausanne](https://icono-lausanne.github.io/). Ces images sont aussi intégrées à la [Time Atlas](https://timeatlas.eu/), qui contient une iconographie plus globale.  

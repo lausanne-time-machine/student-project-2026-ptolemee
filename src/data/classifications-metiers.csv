@@ -1,0 +1,1097 @@
+Job Name,Count
+[],633, rien
+['vve'],87, inactif
+['menuisier'],42, proletaire
+['couturière'],39, proletaire
+['ménagère'],39, inactif
+['maçon'],36, proletaire
+['veuve'],35, inactif
+['jardinier'],33, proletaire
+['man.'],30, proletaire
+['manœuvre'],29, proletaire
+"['domestique,']",28, proletaire
+['peintre'],26, proletaire
+['serrurier'],24, intermediaire
+['agriculteur'],22, proletaire
+['man'],22, proletaire
+['rentière'],22, inactif
+['chauffeur'],19, proletaire
+['cordonnier'],19, intermediaire
+['mécanicien'],19, intermediaire
+['représentant'],19, intermediaire
+['étud'],19, inactif
+['journalier'],18, proletaire
+['charpentier'],17, proletaire
+"['employé,']",17, proletaire
+['coiffeur'],16, proletaire
+['cuisinière'],16, proletaire
+['boulanger'],15, proletaire
+['comptable'],15, intermediaire
+['étudiant'],15, inactif
+['ferblantier'],14, proletaire
+['ébéniste'],14, proletaire
+['typo'],13, intermediaire
+['employé'],12, intermediaire
+['empi'],11, intermediaire
+['professeur'],11, élevé
+['tailleur'],11, proletaire
+['typographe'],11, intermediaire
+['vendeuse'],11,proletaire
+['épicerie'],11,proletaire
+['boucher'],10, proletaire
+['cafetier'],10, proletaire
+['charretier'],10, proletaire
+['horloger'],10, intermediaire
+['instit'],10, élevé
+['institutrice'],10, élevé
+['lingère'],10, proletaire
+"['manœuvre,']",10,proletaire
+['sommelière'],10, intermediaire
+['imprimeur'],9, proletaire
+['magasinier'],9,proletaire
+['rentier'],8,inactif
+['repasseuse'],8, proletaire
+['tapissier'],8, proletaire
+['vend'],8,proletaire
+"['étudiant,']",8, inactif
+['charron'],7, intermediaire
+['commerçant'],7,proletaire
+['concierge'],7,proletaire
+['coutur.'],7,proletaire
+['emp. bur'],7, intermediaire
+['employé postal'],7, proletaire
+['journalière'],7, proletaire
+['laitier'],7, proletaire
+['modiste'],7, intermediaire
+['monteur'],7, proletaire
+['mécan.'],7, intermediaire
+['pasteur'],7, proletaire
+['pension'],7, inactif
+['portier'],7, proletaire
+['relieur'],7, intermediaire
+['religieuse'],7, inactif
+['architecte'],6, élevé
+['cout'],6, proletaire
+"['empi, postal']",6, proletaire
+['mén'],6, inactif
+['nég'],6, proletaire
+['technicien'],6, intermediaire
+['carrossier'],5, intermediaire
+['charcutier'],5, proletaire
+['coutur'],5, proletaire
+['cuisinier'],5, proletaire
+['domestique'],5, proletaire
+['emp. banque'],5, intermediaire
+['emp. comm'],5, proletaire
+"['empi, bureau']",5, intermediaire
+['entrepreneur'],5, intermediaire
+['ingénieur'],5, élevé 
+['instituteur'],5, élevé
+['musicien'],5, intermediaire
+['médecin'],5, élevé
+['plâtrier'],5, proletaire
+['rent'],5, inactif
+['retraité'],5, inactif
+['secrétaire'],5, proletaire
+['vigneron'],5,proletaire
+['blanchisseuse'],4, proletaire
+['bûcheron'],4, proletaire
+['camionneur'],4,proletaire
+['commis postal'],4, proletaire
+['commis'],4, proletaire
+['demoiselle de magasin'],4, proletaire
+['dessinateur'],4, intermediaire
+"['empi, banque']",4, intermediaire
+"['empi, bur.']",4, intermediaire
+"['empi, de bureau']",4, intermediaire
+"['empi, de comm']",4, proletaire
+['employé trams'],4, proletaire
+"['employéj.-s.,']",4, proletaire
+['facteur'],4, proletaire
+['garagiste'],4, intermediaire
+['jardin'],4, proletaire
+"['journalière,']",4, proletaire
+['machiniste'],4, proletaire
+['maréchal'],4, intermediaire
+['menuis'],4, proletaire
+['mécan'],4, intermediaire
+['ménag'],4, inactif
+['négociant'],4, proletaire
+['ouvr. de ville'],4, proletaire
+['parqueteur'],4, proletaire
+['prof'],4, élevé
+['représ'],4, intermediaire
+['tailleur de pierres'],4, proletaire
+['tonnelier'],4, proletaire
+['vendeur'],4, proletaire
+['électricien'],4, intermediaire
+['épicier'],4, proletaire
+['ag. de police'],3, intermediaire
+['agent de police'],3, intermediaire
+['ancien pasteur'],3, inactif
+['appareilleur'],3, proletaire
+['avocat'],3, élevé
+['caissière'],3, proletaire
+['chapelier'],3, intermediaire
+['cimenteur'],3, proletaire
+['coiffeuse'],3, proletaire
+"['commis,']",3, proletaire
+['commissionnaire'],3, proletaire
+['confiseur'],3, proletaire
+['cuisin'],3, proletaire
+['empi. bur.'],3, intermediaire
+['empi. t. l.'],3, proletaire
+['gypsier'],3, proletaire
+['inst'],3, élevé
+['institut'],3, élevé
+['mécanic.'],3, intermediaire
+['mén.'],3, inactif
+['négoc'],3, proletaire
+['ouvr. de fabr'],3, proletaire
+['paveur'],3, proletaire
+['pharmacien'],3, élevé
+['photogr.'],3, proletaire
+['primeurs'],3, proletaire
+"['prof', '.']",3, élevé
+['scieur'],3, proletaire
+['sommel'],3, intermediaire
+"['sténo', 'dactylo']",3, proletaire
+['tabacs'],3,proletaire
+['taill'],3, proletaire
+['tanneur'],3,proletaire
+['terrassier'],3,proletaire
+['vannier'],3,proletaire
+['a g. de police'],2,intermediaire
+['agricult'],2,proletaire
+['archit'],2, élevé
+['banquier'],2, élevé
+['batelier'],2, proletaire
+['boulang'],2, proletaire
+"['brig, de police']",2, intermediaire
+['brigadier de police'],2, intermediaire
+['brosseur'],2, proletaire
+['caissier'],2, proletaire
+['carreleur'],2, proletaire
+['chauff. d’auto'],2, proletaire
+['chauff.'],2, proletaire
+['compt'],2, intermediaire
+['d. de mag'],2, intermediaire
+['dactylo'],2, proletaire
+['domestique.'],2, proletaire
+['droguiste'],2, intermediaire
+['emballeur'],2, proletaire
+['emp. commerce'],2, proletaire
+['emp. t.l.'],2, intermediaire
+['emp.'],2, proletaire
+"['empi, aux casernes']",2, proletaire
+"['empi, de banque']",2, intermediaire
+"['empi, de bur']",2, intermediaire
+"['empi, de bur.']",2, intermediaire
+"['empi, debur.']",2, intermediaire
+"['empi, d’hôtel']",2, proletaire
+['empi. cff.'],2, intermediaire
+['empi.'],2, proletaire
+['employé de banque'],2, intermediaire
+['employé de commerce'],2, proletaire
+"['employé j.-s.,']",2, intermediaire
+['encaisseur'],2, proletaire
+['facteur postal'],2, proletaire
+['femme de chambre'],2, proletaire
+['fleuriste'],2, proletaire
+['fondeur'],2, intermediaire
+['forain'],2, proletaire
+['forgeron'],2, intermediaire
+['fourreur'],2, proletaire
+['fourreuse'],2, proletaire
+['garçon de magasin'],2,proletaire
+"['gypsier', '-peintre,']",2, proletaire
+['géomètre breveté'],2, intermediaire
+['gérant'],2, inactif
+['horticulteur'],2, intermediaire
+['ing'],2, intermediaire
+['ingén'],2, intermediaire
+"['institutrice,']",2, élevé
+['journal'],2, proletaire
+['laiterie'],2,proletaire
+['lithographe'],2,intermediaire
+['manoeuvre'],2, proletaire
+['manœuv.'],2, proletaire
+['margeur'],2, proletaire
+['margeuse'],2, proletaire
+['meunier'],2, proletaire
+['mêcan.'],2, intermediaire
+['notaire'],2, intermediaire
+['nurse'],2, intermediaire
+['négociante'],2, proletaire
+['ouv. cff'],2, intermediaire
+['ouv. fahr'],2, intermediaire
+['ouvr. de fahr'],2, intermediaire
+['ouvrier deville'],2, intermediaire
+['palefrenier'],2, proletaire
+['pensionnat dedemoiselles'],2, intermediaire
+['photograveur'],2, intermediaire
+['pianos'],2, intermediaire
+['pierriste'],2,proletaire
+['plâtrier-peintre'],2,proletaire
+['poêlier'],2, proletaire
+['poëlier'],2, proletaire
+['profess'],2, élevé
+['professeur à l’académie'],2, élevé
+['préparateur'],2, proletaire
+['représent'],2, intermediaire
+['représentant de commerce'],2, proletaire
+['représentations'],2, proletaire
+['régente'],2, élevé
+['secrét'],2, proletaire
+"['secrétaire,']",2, proletaire
+['sommelier'],2, intermediaire
+['sténo'],2, proletaire
+['sœur de charité'],2, proletaire
+"['tabacs,']",2, proletaire
+['tailleur depierres'],2, proletaire
+['téléphoniste'],2, intermediaire
+"['veuve', 'rentière']",2, inactif
+['viticulteur'],2, proletaire
+['vitrier'],2,proletaire
+['voiturier'],2, proletaire
+['voyageur de commerce'],2
+['voyageur'],2, inactif
+"['vve', 'repasseuse']",2, proletaire
+['éditeur'],2, intermediaire
+['électr.'],2, intermediaire
+['électric'],2, intermediaire
+['étalagiste'],2, intermediaire
+['évangéliste'],2, intermediaire
+"[""a g. d'a""]",1 , intermediaire
+"[""empi, d'hôtel""]",1, proletaire
+"[""empi, d'imprimerie""]",1, proletaire
+"[""l'avenir""]",1, inactif
+"[""prof, d'hygiène""]",1, élevé
+"[""soc. suisse d'antisepsie""]",1
+"[""substitut de l'officier d'état""]",1
+"[', tailleur de pierres']",, proletaire
+"[',mécanicien']",1, intermediaire
+['. de commerce'],1, proletaire
+['. typo'],1, proletaire
+['.journalier'],1, proletaire
+['.représent.'],1, élevé
+['.serrurier'],1, intermediaire
+['_ cuisin.'],1, proletaire
+['a g. sûreté'],1, intermediaire
+['a ne. insp. du bétail'],1, intermediaire
+"['a', ':', 've']",1, , inactif
+['accordeur de pianos'],1, intermediaire
+['accordeur'],1, intermediaire
+['adm. impi.caroline s.a'],1, intermediaire
+['admi-nist. b. c. v.'],1, intermediaire
+['admin. de cinéma'],1, intermediaire
+['administr'],1, intermediaire
+['afficheur'],1, proletaire
+['ag. de poh'],1, intermediaire
+['ag. de poi'],1, intermediaire
+['ag. de sûr'],1, intermediaire
+['ag. de sûreté'],1, intermediaire
+['ag. dé police'],1, intermediaire
+['ag. d’affaires'],1, proletaire
+['agent de publicité'],1, intermediaire
+['agent depolice'],1, intermediaire
+['agent depublicité'],1, intermediaire
+['agent d’as-sur'],1, intermediaire
+['agent d’assur'],1, intermediaire
+['agent générald’assurances'],1, intermediaire
+['agentde police'],1, intermediaire
+['agricult.. croixvertes 2'],1, proletaire
+['agt de police'],1, intermediaire
+"['ajusteur cff,']",1, intermediaire
+['ajusteur cff..'],1, intermediaire
+['alimentation générale'],1, commerce
+"['alluni', 'de gaz']",1, proletaire
+['anc. direct'],1, inactif
+['anc. pasteur'],1, inactif
+['anc. prof'],1, inactif
+['anc. tonnel.'],1, inactif
+['ancien boucher'],1, inactif
+['ancien cafetier'],1, inactif
+['ancien instituteur'],1, inactif
+"['anciengendarme,']",1, inactif
+['appareil-leur'],1, proletaire
+['appareill'],1, proletaire
+['appareillent'],1, proletaire
+['appareilleur.rue'],1, proletaire
+"['appareilsélectriques,']",1, proletaire
+['apprentie couturière'],1, proletaire
+['archiviste cantonal'],1, intermediaire
+['argenteur'],1, intermediaire
+"['art. bronze,aven, des oiseaux 5']",1, intermediaire
+['artiste dramat'],1, intermediaire
+['artiste-musicien et accordeur de pianos'],1, intermediaire
+['artiste-peintre'],1, intermediaire
+['artistepeintre'],1, intermediaire
+['assistant-pharmacien'],1, intermediaire
+['assistante pharmac.'],1, intermediaire
+"['at elise,', 'vve', 'camionn']",1, proletaire
+['at. de tapissier'],1, proletaire
+"['atei', 'électro-mécanique,']",1, proletaire
+['auto-écolè'],1, intermediaire
+['autos d’occasion'],1, intermediaire
+['aven'],1, ???
+"['avocat', '-18']",1, élevé
+['avocat(bureau)'],1, élevé
+"['bactériologistecantonal,']",1, élevé
+['banda-giste'],1, élevé
+['banq'],1, intermediaire
+"['berlha', 'veuve']",1, inactif
+['bibliothécaire'],1, intermediaire
+['bijoutier'],1, intermediaire
+['biscuiterie'],1, intermediaire
+['blanchiss'],1, proletaire
+['blanchisseur'],1, proletaire
+['boiseur'],1, proletaire
+['bonne'],1, proletaire
+['bonneterie'],1, proletaire
+['bottier-cordonnier'],1, intermediaire
+['boucheir'],1, proletaire
+['bouchère'],1, proletaire
+['boucli'],1, proletaire
+['boul'],1, proletaire
+"['boulanger,']",1, proletaire
+['brasseur'],1, proletaire
+"['brig,de police']",1, intermediaire
+['brigad. police'],1, intermediaire
+['bross'],1, proletaire
+['brosserie'],1, proletaire
+['buraliste'],1, proletaire
+"['cafetier', 'café des abattoirs']",1, proletaire
+['café de la placed’armes'],1, proletaire
+['café des lauriers'],1, proletaire
+['café deslauriers.'],1, proletaire
+['café du stand'],1, proletaire
+['café-brasseriebeauregard'],1, proletaire
+['cafés et thés'],1, proletaire
+['caissier debanque'],1, proletaire
+['camp'],1, ???
+['candidat en médecine'],1, inactif
+"['cantine descasernes,']",1, proletaire
+['cantinier auxcasernes'],1, proletaire
+['cantinier des casernes'],1, proletaire
+['capitaine-instruct'],1, intermediaire
+['capitaine-instructeur'],1, intermediaire
+['carrelages et revêtements'],1, proletaire
+['carreleur.les crêtes'],1, proletaire
+['carrier'],1, proletaire
+['carrossiers'],1, proletaire
+['casernier'],1, proletaire
+['caviste'],1, proletaire
+"['chapelier', 'la brune,,rue']",1, intermediaire
+['char'],1, proletaire
+['charcut'],1, proletaire
+['chargeur à lavoirie'],1, proletaire
+['charpent'],1, proletaire
+"['charpentier', ', 41.']",1, proletaire
+"['charpentier', 'épicerie,mercerie']",1, proletaire
+"['charretier', 'm. porchet']",1, proletaire
+"['chaudronn', '. art']",1, proletaire
+['chaudronni'],1, proletaire
+['chaudronnier'],1, proletaire
+['chauff. camion'],1, proletaire
+['chauff. de camion'],1, proletaire
+['chauff.a.l.'],1, proletaire
+['chauff.au gaz'],1, proletaire
+"['chauffage etventilation,']",1, proletaire
+['chauffeur auto'],1, proletaire
+['chauffeur-livreur'],1, proletaire
+['chauffeurmécan.'],1, intermediaire
+['chef compt.'],1, élevé
+['chef céramique'],1, élevé
+['chef de bur.cff'],1, élevé
+['chef de gare gff.retr..'],1, inactif
+['chef de pensionnat de demois'],1, élevé
+"['chef de serv.postal,']",1, élevé
+['chef de servicepolice administr'],1, élevé
+['chef de silo'],1, élevé
+['chef de train c. f.f. retraité'],1, inactif
+['chef démarcheuse'],1, élevé
+"['chef d’équipett,']",1, élevé
+['chef pâtissier'],1, intermediaire
+['chefde cuisine'],1, intermediaire
+['chiffonnier'],1, proletaire
+"['cie s. a.', 'combustibles. mazout']",1, commerce
+"['cie,', 'entrepreneurs']",1, intermediaire
+['ciment'],1, commerce
+['clos des alpes'],1, rien
+"['cocher', '-gibert']",1, proletaire
+['coi it'],1, proletaire
+['coiff'],1, proletaire
+"['coiffeur', '. chaucrau.']",1, proletaire
+['collaborât.'],1, intermediaire
+['com.de poste'],1, intermediaire
+"['combustibles,', 'vieuxmétaux. bur. et chant']",1, proletaire
+"['comm. c. f. f,.av']",1, intermediaire
+['comm. dethés et épices'],1, intermediaire
+['comm. postal'],1, intermediaire
+['commerc.'],1, proletaire
+['commerce decuirs (tanneries'],1, proletaire
+['commerç.'],1, proletaire
+['commerçante'],1, proletaire
+['commis b.c. v'],1, intermediaire
+['commis de magasin'],1, proletaire
+['commis deposte'],1, intermediaire
+['commis doposte'],1, intermediaire
+"['commis', 'm. pacbe']",1, intermediaire
+"['commis,', 'rose mousse']",1, intermediaire
+['commisc.f.f..'],1, intermediaire
+['commispost'],1, intermediaire
+"['commispostal,']",1, intermediaire
+['commiss'],1, intermediaire
+['commission'],1, intermediaire
+['commissionn'],1, intermediaire
+['commissionnaire-portefaix'],1, intermediaire
+['compositeur'],1, intermediaire
+"['compt.trams,']",1, intermediaire
+['comptable dela commune de lausanne'],1, intermediaire
+"['comptable,']",1, intermediaire
+['cond. cff'],1, intermediaire
+['cond. de trav'],1, intermediaire
+['cond. d’autobus'],1, intermediaire
+['cond. trams'],1, intermediaire
+['cond. typo'],1, proletaire
+"['conduct', 'trams']",1, intermediaire
+"['conduct, postepremier secours']",1, intermediaire
+"['conduct, typo']",1, proletaire
+['conducteur'],1, proletaire
+['conducteur-typo'],1, proletaire
+"['conducteurtrams,']",1, proletaire
+['conseil en publicité'],1, intermediaire
+['constructeurs'],1, proletaire
+"['contre-inaîtrrmaçon,']",1, proletaire
+"['contremaître maçon', 'rose mousse']",1, proletaire
+['contremaître maçon'],1, proletaire
+['contremaître'],1, proletaire
+"['contremaîtremaçon,']",1, proletaire
+['contrôleur dudépartement des travaux publics'],1, élevé
+['contrôleurdes écoles'],1, élevé
+['copiste'],1, intermediaire
+['cordonn'],1, proletaire
+"['cordonnier,']",1, proletaire
+['corn'],1, ???
+['corsetière'],1, proletaire
+"['corsets', 'et bonneterie']",1, proletaire
+['coulis postal'],1, proletaire
+['coupeur fourreur'],1, proletaire
+['courtier'],1, proletaire
+['coutur..'],1, proletaire
+['couvreur'],1, proletaire
+['coût'],1, proletaire
+['cpl gendarm.'],1, intermediaire
+['cpl gendarme'],1, intermediaire
+['cuisin.'],1, proletaire
+"['cuisinière', ""l'anémone""]",1, proletaire
+['culottière'],1, proletaire
+['cultivateur'],1, proletaire
+['curé de st-joseph'],1, intermediaire
+['cycles et motos'],1, commerce
+['céramiste'],1, proletaire
+['d. de magasin'],1, intermediaire
+['dame de réception'],1, proletaire
+"['dame', 'articles divers']",1, proletaire
+"['dame', 'lingère']",1, proletaire
+"['dame', 'organiste']",1, intermediaire
+"['dame', 'pension de demoiselles']",1, intermediaire
+"['dame', 'professeur de piano']",1, intermediaire
+"['dame', 'rent']",1, inactif
+"['dame', 'régente']",1, élevé
+"['de lausanne,']",1, rien
+['de police'],1, intermediaire
+"['demoiselle', 'maîtresse d’école particulière']",1, intermediaire
+['dente-lière'],1, proletaire
+['dentiste'],1, élevé
+"['dessin, arch']",1, intermediaire
+"['dessinat.-archit,']",1, intermediaire
+"['dessinateur', 'la brune']",1, intermediaire
+['dessinât'],1, intermediaire
+['diaconesse'],1, intermediaire
+"['dir. ecole decommerce,']",1, élevé
+['dir. imp.vaudoise'],1, élevé
+['direct'],1, élevé
+"['direct, de l’orphelinat']",1, élevé
+['directeur de l’institut desgardes-malades'],1, élevé
+['directrice de l’asile «laretraite'],1, élevé
+['dlle de magasin'],1, proletaire
+['docteur'],1, élevé
+['dom'],1, proletaire
+['domest'],1, proletaire
+['domest.'],1, proletaire
+['dr ès sciences'],1, élevé
+"['dr', '-', 'méd']",1, élevé
+['décorateur'],1, proletaire
+['désinfecteur'],1, intermediaire
+['e ief-peintre'],1, proletaire
+['eaux minérales.ap. et bur'],1, commerce
+"['emile,.plâtr.-peintre.']",1, proletaire
+['emjiloyé de bureau'],1, intermediaire
+['emnl. commerce'],1, intermediaire
+['emo. bur'],1, intermediaire
+['emol.comm.'],1, intermediaire
+['emp. banq'],1, intermediaire
+"['emp. c. f. f.,r']",1, intermediaire
+['emp. c.g.n.'],1, intermediaire
+['emp. cff'],1, intermediaire
+['emp. comm .'],1, intermediaire
+"['emp. comm', '.,av']",1, intermediaire
+['emp. comm.'],1, intermediaire
+['emp. de banque'],1, intermediaire
+['emp. de bur'],1, intermediaire
+['emp. de consulat'],1, intermediaire
+['emp. d’hôtel'],1, intermediaire
+['emp. hôtel'],1, intermediaire
+['emp. post'],1, intermediaire
+['emp. t. f.'],1, intermediaire
+['emp. t. l.'],1, intermediaire
+['emp. télég'],1, intermediaire
+['empailleur dechaises'],1, proletaire
+"['empi', 'au téléphone']",1, intermediaire
+"['empi, au gaz']",1, intermediaire
+"['empi, auxcasernes,']",1, intermediaire
+"['empi, banq']",1, intermediaire
+"['empi, bur']",1, intermediaire
+"['empi, commerce']",1, intermediaire
+"['empi, cumin.']",1, intermediaire
+"['empi, de commerce']",1, intermediaire
+"['empi, de_ banque']",1, intermediaire
+"['empi, debanoue,']",1, intermediaire
+"['empi, decommerce,']",1, intermediaire
+"['empi, hôtel']",1, intermediaire
+"['empi, librairie']",1, intermediaire
+"['empi, téléph']",1, intermediaire
+"['empi, voirie']",1, intermediaire
+"['empi,', 'de bureau']",1, intermediaire
+['empi. abattoirs'],1, proletaire
+"['empi. b. c. v.,av']",1, intermediaire
+['empi. cff..'],1, intermediaire
+['empi. off'],1, intermediaire
+['empi. s.i.'],1, intermediaire
+"['empi. t.-l.,']",1, intermediaire
+['empi. tl'],1, intermediaire
+['empi. tl..'],1, intermediaire
+['empi. usine à gaz'],1, intermediaire
+['employé ait gaz'],1, intermediaire
+['employé aubureau cantonal des étrangers'],1, intermediaire
+['employé aupénitencier'],1, intermediaire
+"['employé banq.retraité,']",1, intermediaire
+['employé debanque'],1, intermediaire
+['employé debureau'],1, intermediaire
+"['employé debureau,']",1, intermediaire
+['employé des forces de joux'],1, intermediaire
+['employé librairie'],1, intermediaire
+['employé maisonde ville'],1, intermediaire
+['employé suisse occid'],1, intermediaire
+['employé t. l.'],1, intermediaire
+['employé téléphoniste'],1, intermediaire
+['employé île banque'],1, intermediaire
+"['employé,', ', 17.']",1, intermediaire
+['employé.'],1, proletaire
+['employéau téléphone'],1, intermediaire
+['employéau téléphoné'],1, intermediaire
+['employéaux casernes'],1, intermediaire
+['employéde banque'],1, intermediaire
+['employéde commerce'],1, proletaire
+['employée bureau'],1, intermediaire
+['employée de comm'],1, proletaire
+['employée de commerce'],1, proletaire
+['employée postale'],1, intermediaire
+"['employée,']",1, proletaire
+['employéla chancellerie'],1, intermediaire
+['employés. o.-s.'],1, intermediaire
+"['employétrams,']",1, intermediaire
+"['employétéléphone,']",1, intermediaire
+['encadreur'],1, proletaire
+['encaiss'],1, proletaire
+['entr'],1, ???
+"['entrep., admin.autobus lausannois']",1, commerce
+['entrepr.'],1, intermediaire
+['entrepren'],1, intermediaire
+['epicerie'],1, commerce
+['euip'],1, ???
+['exp.-comp-table'],1, élevé
+"['exp.-comptable,']",1, élevé
+['expert-compt'],1, élevé
+['expertcompt.'],1, élevé
+['f. de ch'],1, proletaire
+['f. de salle'],1, proletaire
+['f.cs clochetons'],1, proletaire
+"['f^u«rab. et', 'pierre richard']",1, ???
+['fabr. d’articles en métal'],1, commerce
+"['fabric', 'chaussures']",1, proletaire
+['fabricant'],1, intermediaire
+['fabrique de thermomètres métall'],1, intermediaire
+['fabrique d’aiguilles hypodermiques'],1, intermediaire
+['fact'],1, proletaire
+"['fact, postal']",1, proletaire
+['facteur post'],1, proletaire
+['facteur retr'],1, proletaire
+"['fahr, de bijouterie']",1, proletaire
+['femme du ménage'],1, proletaire
+"['ferbl.-concierge,']",1, proletaire
+['ferblant'],1, proletaire
+['ferblant.. maisonhaller'],1, proletaire
+['fermier'],1, proletaire
+['ferrailleur'],1, proletaire
+['fille d’office'],1, proletaire
+"['fils', 'emp. decommerce,']",1, proletaire
+['fleur'],1, proletaire
+['fonct. fédéral'],1, intermediaire
+['fonct. postal'],1, intermediaire
+['fonctionnaire'],1, intermediaire
+['fond'],1, proletaire
+"['fondé pouvoir,']",1, ???
+['fontainier'],1, proletaire
+['fournitures p. imprimeries'],1, proletaire
+['fourrures'],1, proletaire
+"['françois', 'tapissier']",1, proletaire
+['frigos'],1, proletaire
+['fripière'],1, proletaire
+"['fritz', 'tailleur']",1, proletaire
+['fruits et légumes'],1, proletaire
+['g. de laboratoire'],1, proletaire
+['g. de mag'],1, proletaire
+['g. d’off'],1, proletaire
+['g. laitier'],1, proletaire
+['g.-lai-tier'],1, proletaire
+['g.-malade'],1, proletaire
+"['g.-malades,']",1, proletaire
+['galvanisentrue'],1, proletaire
+['galvaniseur'],1, proletaire
+['gar. de bureau'],1, proletaire
+['garde champêtre'],1, proletaire
+['garde malade'],1, proletaire
+['garde'],1, proletaire
+['garde-malade'],1, proletaire
+"['garde-malades,']",1, proletaire
+['garde-malades.'],1, proletaire
+"['gare, de café']",1, proletaire
+"['garç. de mag', 'maçon']",1, proletaire
+['garçon boucher'],1, proletaire
+['garçon de peine'],1, proletaire
+['gendarme'],1, intermediaire
+"['georges', 'représent']",1, proletaire
+['gouv'],1, intermediaire
+['gouvern'],1, intermediaire
+['gouvernante'],1, intermediaire
+"['gouvernante,']",1, intermediaire
+['graphologue'],1, intermediaire
+['graveur surbois'],1, proletaire
+['greffier dujuge d’instruct'],1, élevé
+['greffier dujuge d’instruction'],1, élevé
+['greffier juge informateur'],1, élevé
+['gvpsier-peintre et épicerie'],1, proletaire
+['gvpsier-peintre'],1, proletaire
+['gyps'],1, proletaire
+"['gyps.-peintre,']",1, proletaire
+['gyps.-peintre.monte'],1, proletaire
+['gypsier-peintre'],1, proletaire
+['gypsiers-peintres'],1, proletaire
+['géomètre'],1, intermediaire
+['géomètrebreveté'],1, intermediaire
+['gér'],1, intermediaire
+['gérances'],1, intermediaire
+['gérant café ch.-de bourg'],1, intermediaire
+['gérant dela société du gaz'],1, intermediaire
+"['gérant,']",1, intermediaire
+"['gérante', 'coopê']",1, intermediaire
+"['hiltbrand emile,', 'épicier']",1, proletaire
+"['hoirs de m.-f.', 'huis de chauffage']",1, commerce
+['homme de lettres'],1, intermediaire
+['huiles pour autos'],1, commerce
+['huissier du tribunal'],1, intermediaire
+['huissier'],1, intermediaire
+['huissier-chef trib. fédéra'],1, intermediaire
+['huissierde la direct'],1, intermediaire
+['huissiermunicipal'],1, intermediaire
+['héliographe'],1, proletaire
+['héliograveur'],1, proletaire
+['hôtelier'],1, proletaire
+['iardinier'],1, proletaire
+['in. de dessin'],1, intermediaire
+['inan'],1, ???
+['industriel'],1, ???
+['inf'],1, intermediaire
+['infirm'],1, intermediaire
+['infirmier'],1, intermediaire
+['infirmière'],1, intermediaire
+"['ing.-conseil,']",1, intermediaire
+['ingén. cff.'],1, élevé
+['ingén.'],1, élevé
+['ingénieur c. f.f.'],1, élevé
+['ingénieur neocalor'],1, élevé
+['ingénieurcantonal'],1, élevé
+"['insp. assurances,']",1, intermediaire
+['insp. scolaire'],1, intermediaire
+"['inspect, assur']",1, intermediaire
+"['inspect, forestier']",1, intermediaire
+"['inspect. direct,des postes']",1, intermediaire
+['inspecteur dubétail'],1, intermediaire
+['inspecteur forestier'],1, intermediaire
+['inst.'],1, élevé
+['institutr'],1, élevé
+['institutrice retraitée'],1, élevé
+"['institutrice', 'sq.']",1, élevé
+['instrum. dechirurgie'],1, élevé
+"['intendant casernes,']",1, proletaire
+['intendant de la caserne'],1, proletaire
+['intendantdes casernes'],1, proletaire
+['iristitutr'],1, élevé
+['iust.it'],1,élevé
+['jardi-dinier'],1, proletaire
+['jardinier du cimetière de la pon'],1, proletaire
+"['jardinier', 'moulin des (']",1, proletaire
+['journhlière'],1, proletaire
+['juge cantonal'],1, élevé
+"['juge', 'cant']",1, élevé
+['la manufacturelausannoise de biscuits'],1, commerce
+['laborant..'],1, intermediaire
+['lait'],1, ???
+['lieut.-colonel-instructêur'],1, intermediaire
+['lieutenant-colonel instructeur'],1, intermediaire
+['limonadier'],1, proletaire
+['limonadier.vue de la ponto:se 36'],1, proletaire
+"['lingère', 'couturière']",1, proletaire
+"['lingère', 'v. maria']",1, proletaire
+['lingére'],1, proletaire
+['lingêre'],1, proletaire
+['linotypiste'],1, proletaire
+['liquoriste'],1, intermediaire
+['lithogr.'],1, intermediaire
+['litogr.'],1, intermediaire
+['liugère'],1, proletaire
+['livreur. monte'],1, proletaire
+"['louisa', 'épicerie']",1, proletaire
+"['louise', 'ménagère']",1, proletaire
+['m. charpentier et cafetier'],1, proletaire
+['m. charretier'],1, proletaire
+['m. cordonnier'],1, proletaire
+['m. de danse'],1, intermediaire
+['m. gypsier-peintre'],1, proletaire
+['m. jardinier'],1, proletaire
+['m. tailleur'],1, proletaire
+['magasin'],1, commerce
+"['magasin.-livreur,']",1, proletaire
+['maitresse de piano'],1, intermediaire
+['maitresse de.pension'],1, intermediaire
+"['major', 'instructeur']",1, intermediaire
+"['man', '.,']",1, proletaire
+['man. t. l.'],1, proletaire
+"['man.', 'sommelière']",1, proletaire
+['manuf. trousseaux'],1, proletaire
+['manœuv'],1, proletaire
+"['manœuvre ,']",1, proletaire
+['manœuvre.'],1, proletaire
+['manœuvretrams'],1, proletaire
+['maraîcher'],1, proletaire
+['marbrier'],1, proletaire
+"['march, decombutibles,']",1, proletaire
+['marchand de combustible et liquoriste'],1, intermediaire
+['marchand de vins'],1, proletaire
+"['marchand forain', ', 17.']",1, proletaire
+['marchandde légumes'],1, proletaire
+['marchande'],1, proletaire
+['marchandforain'],1, proletaire
+"['margeur', 'v. beauval,']",1, proletaire
+['marguer'],1, proletaire
+"['maréchal', 'aven.druey 30. at']",1, intermediaire
+['mathilde'],1, ???
+"['maçon', 'v. sanssouci']",1, proletaire
+['maître charpentier'],1, proletaire
+['maître gymn.'],1, intermediaire
+['maîtresse de pension'],1, intermediaire
+"['md fripier,']",1, proletaire
+"['md grainier,']",1, proletaire
+['menuiserie'],1, proletaire
+['menuiserie-ébéniste-rie'],1, proletaire
+['menuisier-ébéniste'],1, proletaire
+['menuisiers'],1, proletaire
+['meublesd occasion'],1, commerce
+['meun'],1, proletaire
+['mineur'],1, proletaire
+"['ministre', ', pension pourjeunes garçons']",1, intermediaire
+['miroitier'],1,, proletaire
+['missionnaire'],1, intermediaire
+['modes'],1, ???
+"['modiste', ', 2.']",1, proletaire
+"['modiste', 'm. a.']",1, proletaire
+['mon'],1, ???
+"['mont, en chauff']",1, proletaire
+"['mont, téléph']",1, proletaire
+"['mont, électr']",1, proletaire
+"['mont,']",1, proletaire
+['monte caro'],1, proletaire
+['monteur mécanicien'],1, proletaire
+['monteur t. l.'],1, proletaire
+['mouleur'],1, proletaire
+['music'],1, intermediaire
+['musicienne'],1, intermediaire
+['mèli'],1, ???
+['méc.'],1, intermediaire
+"['méc.-chauffeur,']",1, intermediaire
+['méc.-électr.'],1, intermediaire
+"['mécan cff,']",1, intermediaire
+"['mécan. c. f. f.,ch']",1, intermediaire
+['mécan. cee.'],1, intermediaire
+['mécan. chauff'],1, proletaire
+"['mécan., tricot']",1, proletaire
+"['mécan.-électricien,']",1, intermediaire
+['mécan.-êlectr.'],1, intermediaire
+['mécan.. cff'],1, intermediaire
+['mécan.. monte caro'],1, proletaire
+['mécan..'],1, intermediaire
+['mécanic en'],1, intermediaire
+"['mécanic. cff.,rue']",1, intermediaire
+"['mécanicien cff,']",1, intermediaire
+"['mécaniciengff,']",1, intermediaire
+['mécon'],1, ???
+"['méd.-dentiste,quart']",1, élevé
+"['médecin,camp. bellerive.']",1, élevé
+['ména-gore'],1, proletaire
+['ménag.'],1, proletaire
+['ménag..'],1, proletaire
+['ménagère.'],1, proletaire
+['métr.-vérificat.'],1, ???
+['nettoyeur'],1, proletaire
+['ni. charpentier'],1, proletaire
+['nickeleur'],1, proletaire
+['notaire (étude'],1, intermediaire
+['nun'],1, ???
+['nég.'],1, proletaire
+"['négoc. entabacs,']",1, proletaire
+['négoc.'],1, proletaire
+['négociant en cuirs'],1, proletaire
+"['négociant', 'tapis linoléum']",1, proletaire
+['opérateur'],1, proletaire
+"['organiste', 'repos-cottage']",1, intermediaire
+['ouv'],1, proletaire
+['ouv. camp'],1, proletaire
+['ouv. chocolatière'],1, proletaire
+['ouv. de fabr'],1, proletaire
+['ouv. de fati'],1, proletaire
+['ouv. de ville'],1, proletaire
+['ouv. photograveur'],1, proletaire
+"['ouvr. de ville,retr']",1, proletaire
+['ouvr. d’usine'],1, proletaire
+['ouvr. fahr'],1, proletaire
+"['ouvr. fahr.,quart']",1, proletaire
+['ouvr. à la voirie'],1, proletaire
+['ouvrier de ville'],1, proletaire
+['ouvrier fabrique'],1, proletaire
+['ouvrier voirie'],1, proletaire
+['ouvrière'],1, proletaire
+"['palefrenier,']",1, proletaire
+"['papierspeints,']",1, proletaire
+['pasteur(mission intérieure'],1, intermediaire
+['peint'],1, proletaire
+['peintre bât.'],1, proletaire
+['peintre en lettres'],1, proletaire
+['peintre en voitures'],1, proletaire
+"['peintre encarrosserie,']",1, proletaire
+['peintre envoitures'],1, proletaire
+['peintre-décor'],1, proletaire
+['peintre-décorat.'],1, proletaire
+['pension de demoiselles'],1, intermediaire
+['pension et garde-malade'],1, intermediaire
+"['pensionde jeunes gens', '. —']",1, intermediaire
+['phntogr.'],1, intermediaire
+['photogr'],1, intermediaire
+['photographe'],1, intermediaire
+['pianiste'],1, intermediaire
+['pierristc'],1, proletaire
+['pionnier'],1, proletaire
+['piqucuse'],1, proletaire
+['piqueur'],1, proletaire
+"['plàtrier', '-peinlre']",1, proletaire
+['polisseur de pianos'],1, proletaire
+['polisseur'],1, proletaire
+"['primeurs,']",1, proletaire
+"['prof, de chant.av']",1, intermediaire
+"['prof, de gym']",1, intermediaire
+"['prof, de mus']",1, intermediaire
+"['prof, de musique']",1, intermediaire
+"['profess, de langues', ', dessin,modelage et calligraphie']",1, élevé
+"['profess, de sciencesphysiques et naturelles']",1, élevé
+"['profess., camp.grande borde']",1, élevé
+['professeur de dessin'],1, intermediaire
+['professeur de gymnastique'],1, intermediaire
+['professeur de langues'],1, élevé
+['professeur d’escrime'],1, intermediaire
+"['professeur, pension de jeunes gens']",1, élevé
+"['professeur, pensionde jeunes gens']",1, élevé
+"['professeur,']",1, élevé
+"['professeur,rédacteur du chrétien évangélique']",1, élevé
+['propriét'],1, inactif
+"['propriétaire,']",1, inactif
+['pàtiss'],1, proletaire
+['quart'],1, ???
+['r. des jardins'],1, ???
+['radios'],1, ???
+['ramoneur'],1, intermediaire
+['raém'],1, ???
+['rctr. de police'],1, intermediaire
+['remmaillage de bas. atet'],1, proletaire
+['remmailleuse'],1, proletaire
+['remouleur'],1, proletaire
+['renseignements'],1, proletaire
+"['rentier', 'veuve', 'couturière', 'dame', 'épicerie, mercerie']",1, proletaire
+['repass.'],1, proletaire
+"['repr', '.']",1, proletaire
+['représent.carba s'],1, proletaire
+"['représentant,']",1, proletaire
+"['représentantassur..', 'téléphone 22 0212']",1, proletaire
+['représentations diverses'],1, intermediaire
+['restaur'],1, proletaire
+['restaurateur cantine des casernes'],1, proletaire
+['restaurateur'],1, proletaire
+['retr'],1, inactif
+"['retraité cff,']",1, inactif
+"['retraité cff.,av']",1, inactif
+['retraité post'],1, inactif
+['retraité post.. lapastourelle'],1, inactif
+['retraité postal'],1, inactif
+['retraité ptt.'],1, inactif
+['retraité s. i.'],1, inactif
+['retraité s.i.'],1, inactif
+['revendeur'],1, proletaire
+"['revendeuse,']",1, proletaire
+"['ro-sine-albertine', 'rentière']",1, inactif
+['rose mousse'],1, ???
+['rédact'],1, intermediaire
+"['réparateur', 'deverres']",1, intermediaire
+['rêpar. de bijouterie'],1, intermediaire
+['s.a.. vins'],1, commerce
+['sage-femme'],1, intermediaire
+['scmmeü’ère'],1, ???
+['sculpt'],1, proletaire
+['sculpteur'],1, intermediaire
+['sculpture et décoration'],1, intermediaire
+['secrét. dirdes ecoles'],1, intermediaire
+"['secrét. greffemunicipal,']",1, intermediaire
+['secrét. trib.de district'],1, intermediaire
+"['secrét. à lachancellerie,']",1, intermediaire
+['secrét.'],1, intermediaire
+"['secrét.-comptable,']",1, intermediaire
+['secrét..'],1, intermediaire
+['secrétaiire'],1, intermediaire
+['secrétaire au bureau du<-timbre'],1, intermediaire
+['secrétaire e.m.l.'],1, intermediaire
+['secrétaire en chef dudép. militaire'],1, intermediaire
+['seorét. département militaire'],1, intermediaire
+"['serg.-maj. sap.-pompiers,']",1, proletaire
+"['serg.-major,', 'garde-frontières']",1, proletaire
+['serr. t.'],1, proletaire
+['serrur'],1, proletaire
+['serrur.'],1, proletaire
+"['serrur.,']",1, proletaire
+"['serrurier s. i.,av']",1, proletaire
+"['serrurier-appa', '-reilleur']",1, proletaire
+['serveuse'],1, proletaire
+['sommeli&re'],1, intermediaire
+['soudeur'],1, proletaire
+['sous-archiviste.'],1, intermediaire
+['sous-chef deservice b. c. v.'],1, intermediaire
+"['sous-direct. union vaudoise du crédit,']",1, intermediaire
+['spécialit. fourragères'],1, proletaire
+['sténo-dactvlo'],1, intermediaire
+['sténograp'],1, intermediaire
+['stêno-dact'],1, intermediaire
+['surv.'],1, inactif
+['sœur charité'],1, intermediaire
+['sœur visitante'],1, intermediaire
+['taill.'],1, proletaire
+['taillandier'],1, proletaire
+['tailleuse'],1, proletaire
+"['tanneur', ',commerce de cuirs (bureau et tannerie']",1, proletaire
+"['tanneur', ',crêtes b']",1, proletaire
+['tapiss'],1, proletaire
+['tapissière'],1, proletaire
+['techn. cff'],1, intermediaire
+['techn. radio'],1, intermediaire
+['techn.-électric..'],1, intermediaire
+['teinturier'],1, proletaire
+"['ti-tommas ini charles,', 'menuisier']",1, proletaire
+['tils'],1, ???
+"['tissusgros et détail', 'draperie, étoffes (magasin']",1, proletaire
+['tourn'],1, ???
+['transports'],1,???
+"['travail,']",1, proletaire
+['tricot à la machine'],1, proletaire
+['tripier'],1, proletaire
+['typograp'],1, intermediaire 
+"['typographe', 'chalet suisse']",1, intermediaire
+['télégr'],1, intermediaire
+['télégraph'],1, intermediaire
+['télégraphiste'],1, intermediaire
+['téléph'],1, proletaire
+['tôlier'],1, proletaire
+['v. maria'],1, ???
+['va beau-crêt'],1, ???
+['val fleuri'],1, ???
+['valet dechambre'],1, proletaire
+['vendeur de journaux'],1, proletaire
+['vendeuse de journaux'],1, proletaire
+"['veuve', 'journalière']",1, proletaire
+"['veuve', 'modiste']",1, proletaire
+"['veuve', 'ménag']",1, inactif
+"['veuve', 'ménagère']",1, inactif
+"['veuve', 'pens,p. jeunes gens']",1, intermediaire
+"['veuve', 'pension pour jeunes demoiselles']",1, intermediaire
+"['veuve', 'rent']",1, inactif
+"['vigneron', 'm. floury']",1, proletaire
+"['visit, aux douanes']",1, ???
+['voyag'],1, inactif
+['voyer du1er arrond'],1, ???
+['vulcanisateur'],1, proletaire
+"['vve', 'bon-neterie-laines,', 'l’ale 10.t.']",1, inactif
+"['vve', 'concierge']",1, proletaire
+"['vve', 'couturière']",1, proletaire
+"['vve', 'giletière']",1, proletaire
+"['vve', 'march,d’œufs']",1, proletaire
+"['vve', 'mercerie-bonneterie']",1, proletaire
+"['vve', 'ménag']",1, inactif
+"['vve', 'ménagère']",1, inactif
+"['vve', 'officed’encaissements']",1, proletaire
+"['vve', 'épicerie']",1, proletaire
+"['vve,épicerie']",1, proletaire
+['vêtements detravail'],1, proletaire
+"['é ri c-em i 1 e,appareilleur']",1, proletaire
+['ébén'],1, proletaire
+"['ébéniste,']",1, proletaire
+['école particul'],1, intermediaire
+['école particul< folriana >'],1, intermediaire
+['écrivain'],1, intermediaire
+"['éditeur,']",1, intermediaire
+['électr'],1, intermediaire
+['électr.-techn..'],1, intermediaire
+['électricien autos'],1, intermediaire
+['électricien s.'],1, intermediaire
+"['électricien surautos,']",1, intermediaire
+['électro-mécan .'],1, intermediaire
+['électro-technic.'],1, intermediaire
+['éléctricien'],1, intermediaire
+"['épicerie', 'confiserie']",1, proletaire
+['équipementélectr.'],1, commerce
+"['étudiant', 'mais. barraud']",1, inactif
+['étudiante'],1, inactif
+['êlectr.'],1, intermediaire
+['êtud..'],1, inactif
+['„ s.'],1, inactif
+["substitut de l'officier d'état"], 1, intermediaire
+['voyageur de commerce'], 1, inactif
+['redact'], 1, inactif
+['débridée'], 2, proletaire
+['employé àla voirie'], 1, proletaire
+['reorésent.'], 1, proletaire
+"['représ', 'gén']", 1, proletaire
+['boucher-charcut.'], 1, proletaire
+['téléphon'], 1, proletaire
+['employé bureau'], 2, intermediaire
+"['employé, postal']", 2, intermediaire
+['appointé police'], 1, intermediaire
+["Soc. suisse d'antisepsie"], 1, commerce
+"['profess,retraité']", 1, inactif
+['chef contrôleurCFF.'], 1, élevé
