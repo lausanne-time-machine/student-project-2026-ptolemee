@@ -1,3 +1,5 @@
+# Des cartes qui changent
+
 Au fur et à mesure que le temps avance, les cartes elles-mêmes se précisent et se peuplent de détails. Vous pouvez faire glisser le slider ci-dessous pour avancer dans le temps et voir les différentes représentations des quartiers évoluer, ainsi que leurs toponymies respectives s'étoffer.
 
 ```js
@@ -85,8 +87,31 @@ function mapNameFromYear(year) {
     width: 100%;
   }
 
+  form {
+    width: 90% !important;
+    flex-direction: row-reverse;
+  }
+
+  form > div {
+    flex-direction: row-reverse;
+  }
+
   :root {
     --input-width: 100% !important;
+  }
+
+  label {
+    width: none;
+    display: none;
+  }
+
+  input[type="number"] {
+    max-width: 70px !important;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  input[type="range"] {
   }
 </style>
 
