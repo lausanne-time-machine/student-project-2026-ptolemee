@@ -25,6 +25,10 @@ Ce n’est pas une méthode exacte pour déterminer l'évolution du bâti car l'
 
 ## Métiers
 
+Les Annuaires commerciaux déjà passé par l'OCR, offrent une vue globale sur Lausanne. Pour restreindre notre vue au quartiers choisi, la toponymie est utiliser pour seulement rassembler des entrées avec address similaires au lieux relevés. Malheureusement, ceci implique la perte d'une fraction des données totales. Une autre methodologie imaginée était de geolocaliser toutes les entrées et prendre seulement celles a l'interieur de nos quartiers mais tous les problems liées a la geolocalisation seraient excerbés par des ordres de magnitudes.
+
+Comme les erreurs d'OCR sont très communes, un calcul de similarité doit être fait. La distance Levenshtein a été utilisé. Une fois les entrées réduites, l'address sansitiser est extraite en prennant le toponyme matché et le combiner avec un numéro de la ligne d'address. De là, Nominatim peut prendre ces addresses et donner des coordonnées afin de geolocaliser l'entrée de l'Annuaire. 
+
 ## Iconographie
 
 La source de l'iconographie de Lausanne est le Musée historique de Lausanne. Les images sont géolocalisées. Cela permet de filtrer les images dans les secteurs administratifs de la Pontaise et de Prélaz entre 1845 et 1951. Nous avons ajouté un buffer de 100 mètres pour inclure des endroits importants comme la caserne qui se situent juste en dehors du secteur. L’iconographie de tout Lausane peut se voir sur le site [icon-lausanne](https://icono-lausanne.github.io/). Ces images sont aussi intégrées à la [Time Atlas](https://timeatlas.eu/), qui contient une iconographie plus globale.  
